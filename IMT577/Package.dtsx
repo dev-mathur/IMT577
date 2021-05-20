@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{938D909B-F9CE-4AE0-89E2-918BCF555312}">
+  DTS:VersionBuild="72"
+  DTS:VersionGUID="{E2E326B3-C7C6-4719-ACE4-BE2E136CB7B6}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -23,7 +23,7 @@
       DTS:ObjectName="Excel Connection Manager">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Product.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Product.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -33,7 +33,7 @@
       DTS:ObjectName="Excel Connection Manager 1">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Product.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Product.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -43,7 +43,7 @@
       DTS:ObjectName="Excel Connection Manager 2">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Channel Reseller and Store.xlsx;Extended Properties=&quot;Excel 12.0 XML;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\imt577user\Downloads\Target Data - Channel Reseller and Store.xlsx;Extended Properties=&quot;EXCEL 12.0 XML;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACT1kRopBqYIzUCKsV8jiUfeCoqPThbiP5vmqqoEs0bPQAAAAAOgAAAAAIAACAAAAB2AJkN1/5nqw3V0uVeIxcE9rWAOO/SVHiiyY1e6rWtrzAAAABZwifndncr278kEQhN3hdw/qaRh+lmL+dil+yJcr1HSS8tp72PZNEyKLIjg+nhDz9AAAAA446gQL4ccLSIPEHMpFFCydcHGbN+na64RxYoycY2aY1InAaN9qETjLfNcEy6jAX/cLo1wEyPlLKnWPoDUpwTtg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACr1H65/MdbVz4UIW4G7yoLWSSmR2qoiJHEJWgQiBkN7AAAAAAOgAAAAAIAACAAAAAhy5nJAq3wzvCa2lduPcCxQDDq7IwtTyB65GU7lb5zIzAAAACoezwSOYC35Jze9f/0zUdGAalVSj9oWkoFrF/7akkgs9Y6+QtHTuDM9DdaAx81eL5AAAAA2e9En72vlvHzD9HUT8KyVNUvlF7FwG23aSsxTLzVpnWEkTrGM3Mn0IOUngJIDBYyXuTh0TUDEZMOJxj7qefizg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABpXxJgRgg/e5YaJiYr1RkWlGIEQhMAzSyQ7pcGh8mW6gAAAAAOgAAAAAIAACAAAACF6tV9h1SwG7p6lvLc8RcrPA619ViduxtKsa6HG25C7DAAAACmsqD3u7K0RbjXDMcaPQFgG+uEmAJ9bKKuUrL8qqbY/rhgxuUzaDviUJ7cccpppotAAAAAcc/X6teSDLXq84fHC/cthG8ND3/gRAGslT/nNdIhPhJ/1lR59VAytaYtOdt1b4Qn9It/5XJhgtZ5po1qBxgeVA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACfWgSOguhzvkStRTyrHyCDjjzL97S+h5Qs+rfP7S5mCAAAAAAOgAAAAAIAACAAAAAAC59+KaxnlWymFOu4r9mz2AyZvX/lkzJ5McGB6zmnuTAAAACEYtqBHE3EIBiKtP8Ogs2tlqKoW03N55cah90e9NkgYM8SANuuShKSdc2lw9kbBCBAAAAAcVBmGE/DC5S1mYU+IjN+8EuBAcGvRxIkDn9/bzZ3Hgn5xepfYDFWcx74eBWjqxjhazRX284SMGLmCzfP+2Bk8w</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -87,7 +87,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADvoZNPvNznCiqNjed1fhRvCInobwDTSQUYeaDEtaunQQAAAAAOgAAAAAIAACAAAABmMa1irarV81XWmU1/rJQXBmdmdXogXHwT1GUjR0RKujAAAAC3ZTx6nHvh5qYFgu9JozCWqBddogYUqWoPm1OA9TbcYVUe9/nWWE/rUriev/uSYvBAAAAA6gwwehGEOyBWlsagasoSCOwaIkWdgGkfdt1UX+Z4EJIsYC4Q0HO2/4yV14PrOw9iU5jgN+2wMFTZ9kRMiZBZ9w</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAiGO6DZ3GgxfZZtKa59qWRBH08Wo6nYyhy3Vwz8pFZUQAAAAAOgAAAAAIAACAAAAD39mLEwdOWwEJ7cGIY7Jr/O7stiz9z3U1NLEWznQgQczAAAAD8la5RMvPSMMo0di543oRioK3s/oOYVXh4KpwD2W+VIf756kbZgE0O7nxw7Gxpb/9AAAAAE8Lt2W4JZW7d4YhvBTu6wFRyqNJoESv995Yefoav31N4T4SF/vOf+65yZHDRmztZrnUZxK4bLpZhXEgy64ndSw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -102,7 +102,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC2Y2GfeTmZq3zkQ2J0A+SCEi2Mo1kUgxWKjlUQHrJuygAAAAAOgAAAAAIAACAAAADn5f/IPZDYl0xyuV7MIuZly7/eFIvqK4Bm9+mXxVpcnTAAAABycBG1kHogwjSsfW4EitEcfCMwx11L31MskOIfprFCtJ7VbLrP9OLuAigjhoD6nBtAAAAARUONDBJquWvZBPKgcni0lmkiZu9gVHvdBjvOxVePy+4jMg+5Kd+au+Rb0VMtf4r/CrVMdeHiG5tPqwgN/nJ5xQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD6eSHuFsHrzB9FKOXw4n7EgwVwlG6K9InnxAkYZwHmcQAAAAAOgAAAAAIAACAAAADUEkscX3H6Km+ynWKNdBYZ6CYGhKzi7pNB2SXbQ4jpjTAAAADqqpHU5khH0ctUlY+ZYZ6VotOZsLgHq2qv1I3l6YD3YcWPFe/0Gmc9uG1D/SW9mCRAAAAAvEGygap6gHLH9XMmGVZq2t63zFMw7DPNBPT4QmS1A09ZBLVoeHGxyqcOcVyWFwHI5Vsx4Qc2TSrKKXjUSexazA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -117,7 +117,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAOl4hyZjO7Qur/Nfk7uUqQonTZFSfiHazsI1rxXTySkgAAAAAOgAAAAAIAACAAAACWivBC+MVUVdXORPfbQ9n7Dr7541K+xQfygS0qO4RX3zAAAACbG3yssHslWT6KPqAeQkrh6p/0BSF+nAWMXXSO9KQMZoFEY9QmyQyVQ+NUmFf/Gw5AAAAA5z7TgAbOfDvt6qxfbMEdqyPJiJgMHDqQcza+pTkQG8FafSnbXD8qCCFnz28U/Z/ciwf6e0OQhBN+ltP1c80ANg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAARM4OwvOA1j01NSzSDWtSslAy2KtLUpX1GzdLxGaX/owAAAAAOgAAAAAIAACAAAADNUhMaGQIyOstoI//nWmqZky6HlP0LqzGD/J5gywdnzTAAAABBcw7DHNqxmPNi3kU4icpkNY6u7kQ+TuR3DQO0zo4mG5T6sctAn9VUsho/bnFJyIRAAAAA4OtL/yqwHhdkenYxmvJeHebj4IPQGrySwSOV0qOfBYi2NpMCWTxb0p/ILa8QDPMrmrp70bAL7q6UsUZ8/Xt7FQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -132,7 +132,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAgowlYXnGwCumEAaWY4h4ifQ4FounRuPm3i/jKJBxOjgAAAAAOgAAAAAIAACAAAADObXwmRG/pg5JMkEeRgXK+3y/THeZRjs3CDr5oPawOMzAAAACEXX3waRzlJvKvYX6orGiycVz4ADVjNfEIQe+zIJyqZiZHDeJqlw/MCeNQe78NtqJAAAAAX/anwC+wmbgncWrvL38Wbeyz9mkJwvSnX32roO6OMWr0pNFV5LV29uLKMJFiF10LRUwBPW2bxLAoeqLJOPcKnw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACvabRRevyIgyfhXo3JlmELHE5/olaRmGFa+Hfb1H734AAAAAAOgAAAAAIAACAAAABq9kJBXdLAJ7Jvm6PFgqE0NV9RGQfW69akNf5CJrt+gTAAAACfLKf6ljR3xCswD9dLu/yJhz4D7rx6mRaM2qeVf4T5HBPmVq9ocMdTVs8P48/NAitAAAAAh+rRQYXt2ygHx6PpvClyAvpS4ySRp22m0yqZXFP9agYWsF8eWzjO0qT0o35PAPiaHQxcR6XKHow6zdPLoTTgTw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -147,7 +147,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAA8Go0pPBpcvdWSFPcGKAYG6+tZAMaBzom2dd8eZuM9wAAAAAOgAAAAAIAACAAAADwK4zck7Qaeinl4tQHOdTu7hG5oEQ1RSC/uOJ+u8BPAzAAAABX1DdgIrNurQK1abeslCqfzLCGUMyw4uHQ0OeC0KPvftf8BfAdfomdkEcdwtahzN9AAAAAnNSjLMI4jP32jijGfoh+IXO6ZmsD+LJQ2G8s6hi4e4TMaXLaPsyExCjW4libtGKBhjYeEjtZlMzcUPQz8OF0QA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAj+o+SD1nIDGXO20HQ/CYkoMuVVv8jai/AJ1OwUgmyywAAAAAOgAAAAAIAACAAAADxkInb9fflNPvB13VRW/UOvzmepvmgRL/SDUWQq35S6DAAAADv7PfU5eOfvGvTObMEbfddE/6gjJy2t+xJ8EsFjHnxZbW7jWciyYENpaYxSJ3SuFFAAAAAVyTW2J7cV7cBZXyM8r7omC0qq8Cfos0idDZ6BTRJi1RdAQ8Ap6di2M2mJojGYxX+4fJ1JKmTFJevB1IbUnhyEQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -162,7 +162,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB0zyTEWQLirDwP1xXcnppIpbaYCO7iK+tOMgo0e2I4WgAAAAAOgAAAAAIAACAAAAAGH8InUopAhxe/8BiyJpNQlfXdHva6BnhyI5shBlr4mjAAAAAHEbz71qNG5M68EPXLPvgypOTWIlZ6wiCC8n+zBPoGHDOcXi8a3Mvee0tIpfZhYshAAAAAEVIUOOd6Ewks5mcwStrn+Em7SuY574mT0QU5D+85u8HjvPYWcFEX99z7q0gSqBk3pJ5kktr98PD324q6ei/ACA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAByW7Bjbd/BuAymzWD23oTX5SFVDDGmMoiKgoHUfHgAjQAAAAAOgAAAAAIAACAAAAA5Q+xoESKqdgZxmUwn/iL4+mL2lZG+p9GSRtKQkjFbdDAAAAAL4XH3MKN0Mk47pbrS25xg4epXH9Sjf/Zn0jj+71egwnAE7OrzbCiXJOxgMh2EUaJAAAAAVoSbBxbvQXKdXLe556mOkI5KPPjRp2LQf2z4/B6iCtOzHuLNnffx27Bu9/lNEkgaeNUdt3U8Qt/Wz6VAX0fmnA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -177,7 +177,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABTdGt9ARmBNP11sJwpufEq7ezXkGyz+zNH9lHkdbYnMgAAAAAOgAAAAAIAACAAAADdyh5NjLpGd73JGfSGOcLysp+nGgnRMPnlWYvE0m30iDAAAAASpO9NAqQdH7MXb+YvuXU/3zgbrc5OlCQaKXf4KPXa9eBqhtFw+HuIdoRhFw+/cudAAAAALnlsHYO4W6KYtAi5hviQi7rYvg0OVwwGgqUZ8oRynxLXVLKyZhm1/o7YrYKWNCyiVHrGogiAhS6uKAM+umq3CA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA3Le8oALBzy4+fXRtPCQUBXDl+7UxvcT8oXeZSehLwUwAAAAAOgAAAAAIAACAAAABC2iX8gYtKeFEZ0Xok6WKeciM7dz9aSCrTHxc6s7dwMjAAAAB36HUKNL4A+UbVkRjq+aqXlUNx309g3Z8up3WZiOIh/0xs8zwLk8DXiFHVTrNP+TVAAAAAWr4FTjrtqgPmu4kr1U8aniOyK+zizDNKyGUEN5anjUs12seDaLw+kkE7RCyHADKJ/KLQ5+FHsuPkdNjltCkgrA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -192,7 +192,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAClYAGELtkeFdMIvcpWuewu3nGTRhr9UHIGaPqdTpZd2wAAAAAOgAAAAAIAACAAAAAWCCyFYh9puetyn8BG7Sj3CrDKUVXO+24p36sV8vejEzAAAABmmvAhCrkJRkBvW1Wzymiyo8Annwa1IZhQSZMUEhgq5m9fMSbp6T6HERPehHwlrVtAAAAAGG2rIvG+0RPrIJ7atyyyueeIcSOOzd+CMmdCYPLYu86HoHpqSbMQJ63vGf5WBXp3xxXFL+IOxqsjskutFue8hw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpeQIPoj3MAF4z5Ye4sReEoIsahj99Xab3NfoS8+882wAAAAAOgAAAAAIAACAAAAB3JiNc1+dZZn5BfzgDSsTL2UOR1/KZnUd5m7ZfE75TtjAAAADtUAnngtzADa90PGkNSp/3ZtMMCDr61/uqD1Ok3ubUX7Lhw2hKLUsoizclBbWvaMtAAAAAidguCHrfBgybXCIEHWc3Tp+jXGG2oycAtNXqMhcYj4QrjXyswpXXf0gqvzOMz4O8d84dIe7Uy18L5rg+1p+WtQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -207,7 +207,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAADkBBTYom9ZeoHOey1cvl6A1Ugp6Z7YQkmzHTMUaHuawAAAAAOgAAAAAIAACAAAAC4vdm41UTyrXQjf9HAdgAVvlCzshKhOrqLXEkms295TzAAAADqtTtaLe+sQD1yTLRSK+BkooUVoV3r57obHAPMI/tUxtxnL5JCn4ZcHayndUJr6glAAAAAncyUOYOMkPeS0OTcvTsvgZ53dCBrO4ELkJy0IXe571UCEqPrbJmjDXROWVEAnN7GYhjF74gbSQKQFMMDJGMx1A</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABdoZdOloBUvQ+kME6laFyvlYsYLF/0dcjKu+tOO/JEgwAAAAAOgAAAAAIAACAAAACIWzULyHwDEvbjsfanxXOcIwAh8rtFptIWV82uaZgPDDAAAAB9Dc6Rpp02UxS9v5Df9DHvkgmuZ3CmFPNfC3Qcn8BYnBoq5fARgiLFy5mecV+Lb7hAAAAAHiIJUaqAt7we0ZwORe5C8cAjMVto6sZcMBxFJOxR91fNDrkBwRUdWK5DZfMDZMnzkfaJPHVrPbaabfP5Xf7LUA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -222,7 +222,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADWT8n+uaxY8YN61Ka+QgQnXEJujgjjpz3ZXZ8W4+d5SQAAAAAOgAAAAAIAACAAAAAOuCi2u9jOBwnq1h1GXlCZ/NfgeqhL7AX1wltYvjn5JzAAAAAgh4kOnsjM1iFmQqwsT9giTp6/nBnbT5QPMvL7biMWWxHXe1Ia/JQKYwCoPGRVVdxAAAAA30BtatEwD+r1WFUQvKgdIw1IsBAr3Tt+cJfAL3Ha9MzNRz85wOyaNmwyv++mGNe/zxuT2/yEpUxsd8vcgykHdQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACwmscPpQzL+UOLfxWRLk5LPc9gR1804BKFCZ6BwlaaIgAAAAAOgAAAAAIAACAAAABRBxIsAxNJtJ0NyPfZ9sXmalzbzGSmT7+TCPrSGDYdATAAAACbZZp+VpxodQKDLUJKvfxBxyu9xc9BCXRd6av9KW7Hbhg+WnkuHYZYt+UplXRw0qlAAAAAJrwMrcGy/BsQ6GXyGMxixB6M7fRyfljPhFw0vjQwZcF0Mg5Mr4r1eyDvI3Pf9buXsVpAkDUXVLM58G4eqY2yYw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -237,7 +237,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACtgYPqg+V8+9LcdlOdDd84776Yn478OyjOwDlLdGM7EQAAAAAOgAAAAAIAACAAAAAvGBAZIHkdNgLu1pIBvwDBy0YS+9AHxRtYyAbWQwx2dzAAAABnbX81rIfs0FaWo7fXEo6buj4OoupIblOYzvvr5Cf1NbUfUmag+jqGWvY52uUmOq1AAAAAdIt0/Kp8mfCQIH73CcU78i11U22nPhvzH9RjOt4Nmgxfs1+qjUWkKNlhcLo25tAvfsU+HcguxTOwYN3PoWF4Ug</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABgNjoj7NGNpxzZm3ym0DLJ9s3iYeR4o1Op02Z2moAsSQAAAAAOgAAAAAIAACAAAADLHjTRXDbZAs82SqiQKyEE5+CVHhAzDaX2mv9A2EeCzzAAAAC5ZM1dHeRH49PvX6AOJ8W0kuaJZEHImNd7zucxMHyOEDJK4cBpjuE0lXMfAdEBKQxAAAAAbSzRfxViQE8cDLbnLZCVeDB1cx3O+Q+t7ZGyA5dBP0X7efG7l26x9QlCyTaGQysp/+IqBwZMqOPITrtIYqd4Lg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -252,7 +252,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADiu8yUl+fR5xa6GYwOvgLsun8dIiOJWjtD37mBiJHvrAAAAAAOgAAAAAIAACAAAAC8QtCiKJ+KLlheHS6hnbGZK93DGmPtM44ECpnw0YkfvjAAAABl0dA3HHvz0HJGbD1rIsSptDnewuuzXUnN0t6MrDjVm5CdTcsus3YeeaFwmeuc+aNAAAAA2Z2mNi9PfZtxv7KSJ/ayVBp6ZT4/H+JA721W60vKwge+R/1dCSOtn3Pp88+pIOKILKHRXhibBgG5rIrAqosAcA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADCdl6Bue3RPsBB/NpmXFEZ6QxCPrSprtrmMlPbYAMCXgAAAAAOgAAAAAIAACAAAADuRzvsqNdGPh1U72uOARs17J/jv6EFN1f3kWn+Rrh1xTAAAAATc6xOGvrPOwKG/J/afhP7MAlq1OUrDpw6HEDjF2XS7zNdfsy5rZiy5i8oUSM8FDZAAAAADMJF2y7OXuFpsopfCxYyChVwG4YSzNJOiwQMIHzb7OFuNIhYjXlnSCc25D/6tEPCnQgsi0mSVl5cVN4OHENLTA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -260,333 +260,377 @@
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
-      DTS:refId="Package\ResellerStore"
-      DTS:CreationName="Microsoft.Pipeline"
-      DTS:Description="Data Flow Task"
-      DTS:DTSID="{872be784-7d14-4b9a-9dc6-e806a33bea5e}"
-      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:refId="Package\Add 2013 &amp; 2014"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{34e95059-a6bb-492b-9d49-af402603dfcb}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
-      DTS:ObjectName="ResellerStore"
-      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      DTS:ObjectName="Add 2013 &amp; 2014"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
-        <pipeline
-          version="1">
-          <components>
-            <component
-              refId="Package\ResellerStore\Destination ResellerStore"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="Destination ResellerStore"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[StageResellerStore]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">3</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\ResellerStore\Destination ResellerStore.Connections[OleDbConnection]"
-                  connectionManagerID="{BFEF84F6-5367-4381-A04B-1A681CA82510}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[ML-RefVm-765087.DestinationSystem.sa]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].Columns[Year]"
-                      cachedDataType="r8"
-                      cachedName="Year"
-                      externalMetadataColumnId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[Year]" />
-                    <inputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].Columns[ChannelName]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="ChannelName"
-                      externalMetadataColumnId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[ChannelName]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ChannelName]" />
-                    <inputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].Columns[TargetName]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="TargetName"
-                      externalMetadataColumnId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[TargetName]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[TargetName]" />
-                    <inputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].Columns[ TargetSalesAmount ]"
-                      cachedDataType="r8"
-                      cachedName=" TargetSalesAmount "
-                      externalMetadataColumnId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[ TargetSalesAmount ]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ TargetSalesAmount ]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
-                      dataType="r8"
-                      name="Year" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[ChannelName]"
-                      dataType="wstr"
-                      length="255"
-                      name="ChannelName" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[TargetName]"
-                      dataType="wstr"
-                      length="255"
-                      name="TargetName" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input].ExternalColumns[ TargetSalesAmount ]"
-                      dataType="r8"
-                      name=" TargetSalesAmount " />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\ResellerStore\Destination ResellerStore.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\ResellerStore\Destination ResellerStore.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Destination ResellerStore.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\ResellerStore\Destination ResellerStore.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\ResellerStore\Source ResellerStore"
-              componentClassID="Microsoft.ExcelSource"
-              contactInfo="Excel Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Excel Source"
-              name="Source ResellerStore"
-              usesDispositions="true"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">'Target Data - Channel Reseller $'</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.String"
-                  description="The mapping from parameters in the SQL command to variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\ResellerStore\Source ResellerStore.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Excel Connection Manager 2]"
-                  connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager 2]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output]"
-                  name="Excel Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[Year]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[Year]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[Year]"
-                      name="Year"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ChannelName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[ChannelName]"
-                      length="255"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ChannelName]"
-                      name="ChannelName"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[TargetName]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[TargetName]"
-                      length="255"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[TargetName]"
-                      name="TargetName"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ TargetSalesAmount ]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[ TargetSalesAmount ]"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].Columns[ TargetSalesAmount ]"
-                      name=" TargetSalesAmount "
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[Year]"
-                      dataType="r8"
-                      name="Year" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[ChannelName]"
-                      dataType="wstr"
-                      length="255"
-                      name="ChannelName" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[TargetName]"
-                      dataType="wstr"
-                      length="255"
-                      name="TargetName" />
-                    <externalMetadataColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output].ExternalColumns[ TargetSalesAmount ]"
-                      dataType="r8"
-                      name=" TargetSalesAmount " />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output]"
-                  isErrorOut="true"
-                  name="Excel Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[Year]"
-                      dataType="r8"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[Year]"
-                      name="Year" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ChannelName]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ChannelName]"
-                      name="ChannelName" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[TargetName]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[TargetName]"
-                      name="TargetName" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ TargetSalesAmount ]"
-                      dataType="r8"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ TargetSalesAmount ]"
-                      name=" TargetSalesAmount " />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-          </components>
-          <paths>
-            <path
-              refId="Package\ResellerStore.Paths[Excel Source Output]"
-              endId="Package\ResellerStore\Destination ResellerStore.Inputs[OLE DB Destination Input]"
-              name="Excel Source Output"
-              startId="Package\ResellerStore\Source ResellerStore.Outputs[Excel Source Output]" />
-          </paths>
-        </pipeline>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- ========================================================================&#xA;-- Execute the procedure for 2013 and 2014 (those are the years you need)&#xA;-- ========================================================================&#xA;EXEC InsDimDateYearly 2013&#xA;&#xA;EXEC InsDimDateYearly 2014" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{274B5E2C-FCF9-4ACC-867B-5B952858756B}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimChannel&#xA;&#x9;(&#xA;&#x9;dimChannelID INT IDENTITY(1,1) CONSTRAINT PK_dimChannel PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimSourceChannelID INT NOT NUll, --Natural Key&#xA;&#x9;dimSourceCategoryID INT NOT NUll, --Natural Key&#xA;&#x9;dimChannelCategoryName VARCHAR(50) NOT NULL,&#xA;&#x9;dimChannelName VARCHAR(50) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table dimCustomer"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{6710a725-a1d5-4d1b-bddc-651b79fb177f}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table dimCustomer"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="5">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimCustomer')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimCustomer&#xA;&#x9;(&#xA;&#x9;dimCustomerID INT IDENTITY(1,1) CONSTRAINT PK_dimCustomer PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimLocationID INT FOREIGN KEY REFERENCES dimLocation(dimLocationID) NOT NULL,&#xA;&#x9;dimSourceCustomerID NVARCHAR(255) NOT NUll, --Natural Key&#xA;&#x9;dimCustomerFullName NVARCHAR(255) NOT NUll,&#xA;&#x9;dimCustomerFirstName NVARCHAR(255) NOT NUll,&#xA;&#x9;dimCustomerLastName NVARCHAR(255) NOT NUll,&#xA;&#x9;dimGender NVARCHAR(1) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table DimDate"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{e10ccdac-009a-49d6-8981-72e3bdfa31cc}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table DimDate"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="3">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- Create DimDate table&#xA;-- ====================================&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'DimDate')&#xA;BEGIN&#xA;&#x9;DROP TABLE dbo.DimDate;&#xA;END&#xA;GO&#xA;&#xA;CREATE TABLE dbo.DimDate&#xA;(&#xA;DimDateID INT IDENTITY(1,1) NOT NULL CONSTRAINT PK_DimDate PRIMARY KEY,&#xA;FullDate [date] NOT NULL,&#xA;DayNumberOfWeek [tinyint] NOT NULL,&#xA;DayNameOfWeek [varchar] (9) NOT NULL,&#xA;DayNumberOfMonth [tinyint] NOT NULL,&#xA;DayNumberOfYear [int] NOT NULL,&#xA;WeekdayFlag [int] NOT NULL,&#xA;WeekNumberOfYear [tinyint] NOT NULL,&#xA;[MonthName] [varchar](9) NOT NULL,&#xA;MonthNumberOfYear [tinyint] NOT NULL,&#xA;CalendarQuarter [tinyint] NOT NULL,&#xA;CalendarYear [int] NOT NULL,&#xA;CalendarSemester [tinyint] NOT NULL,&#xA;CreatedDate DATETIME NOT NULL&#xA;,CreatedBy NVARCHAR(255) NOT NULL&#xA;,ModifiedDate DATETIME NULL&#xA;,ModifiedBy NVARCHAR(255) NULL&#xA;);&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table dimLocation"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{8f90cc01-5c29-4371-bfee-8110659dbe77}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table dimLocation"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimLocation&#xA;&#x9;(&#xA;&#x9;dimLocationID INT IDENTITY(1,1) CONSTRAINT PK_dimLocation PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimAddress NVARCHAR(255) NOT NUll,&#xA;&#x9;dimCity NVARCHAR(255) NOT NUll,&#xA;&#x9;dimPostalCode NVARCHAR(255) NOT NUll,&#xA;&#x9;dimStateProvince NVARCHAR(255) NOT NUll,&#xA;&#x9;dimCountry NVARCHAR(255) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table DimProduct"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{8844802c-59d5-493d-9c2d-b15ed0d56096}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table DimProduct"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimProduct&#xA;&#x9;(&#xA;&#x9;dimProductID INT IDENTITY(1,1) CONSTRAINT PK_dimChannel PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimSourceProductID INT NOT NUll, --Natural Key&#xA;&#x9;dimSourceTypeID INT NOT NUll, --Natural Key&#xA;&#x9;dimSourceCategoryID INT NOT NUll, --Natural Key&#xA;&#x9;dimProductName VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductType VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductCategory VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductRetailPrice NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductWholesalePrice NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductCost NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductRetailProfit NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductWholesaleUnitProfit NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductProfitMarginUnitPercent NUMERIC(18,2) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO&#xA;&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table dimReseller"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{1690de76-986c-4a13-b1b3-1045b92a3db0}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table dimReseller"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="6">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimReseller')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimReseller&#xA;&#x9;(&#xA;&#x9;dimResellerID INT IDENTITY(1,1) CONSTRAINT PK_dimReseller PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimLocationID INT FOREIGN KEY REFERENCES dimLocation(dimLocationID) NOT NULL,&#xA;&#x9;dimSourceResellerID NVARCHAR(255) NOT NUll, --Natural Key&#xA;&#x9;dimResellerName NVARCHAR(255) NOT NUll,&#xA;&#x9;dimContactName NVARCHAR(255) NOT NUll,&#xA;&#x9;dimPhoneNumber NVARCHAR(20) NOT NUll,&#xA;&#x9;dimEmailAddress NVARCHAR(255) NOT NUll&#xA;&#x9;);&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Create Table dimStore"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{29092769-283e-4746-92c3-b455334f06d7}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Create Table dimStore"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="4">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimStore')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimStore&#xA;&#x9;(&#xA;&#x9;dimStoreID INT IDENTITY(1,1) CONSTRAINT PK_dimStore PRIMARY KEY CLUSTERED NOT NULL, --SurrogateKey&#xA;&#x9;dimLocationID INT FOREIGN KEY REFERENCES dimLocation(dimLocationID) NOT NULL,&#xA;&#x9;dimSourceID INT NOT NUll, --Natural Key&#xA;&#x9;dimStoreName VARCHAR(255) NOT NULL,&#xA;&#x9;dimStoreNumber INT NOT NUll,&#xA;&#x9;dimStoreManager VARCHAR(255) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (dimCustomer)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{e36d2993-4cc6-4021-80e3-170961666d21}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (dimCustomer)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="5">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME= 'dimCustomer')&#xA;BEGIN&#xA; DELETE FROM dbo.dimCustomer;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (DimDate)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{EDFCF547-EBD2-4E4F-A546-2EB0663B89D6}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (DimDate)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="3">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'DimDate')&#xA;BEGIN&#xA;&#x9;DELETE FROM dbo.DimDate;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (dimLocation)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{2b392dc3-c399-4850-9ade-3675c07d8e10}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (dimLocation)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA; DELETE FROM dbo.dimLocation;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (dimProduct)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{435cfa8e-4b02-46d8-b426-3a79eed365e2}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (dimProduct)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;DELETE FROM dbo.dimProduct;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (dimReseller)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{b4bf7292-d616-4a60-a5e3-dadceeaa3255}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (dimReseller)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="6">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimReseller')&#xA;BEGIN&#xA; DELETE FROM dbo.dimReseller;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task (dimStore)"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{bab75216-00bd-4fa9-b1da-21060bbaa25b}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task (dimStore)"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="4">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimStore')&#xA;BEGIN&#xA; DELETE FROM dbo.dimStore;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Delete Task dimChannel"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{104BCC2E-7D53-4127-B6C4-83CDD2EBC1FE}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Delete Task dimChannel"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')&#xA;BEGIN&#xA;&#x9;DELETE FROM dbo.dimChannel;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{1D8F28BC-3AFE-4806-B887-85A0ED7A1E02}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimChannel table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimChannel&#xA;&#x9;(&#xA;&#x9;dimSourceChannelID&#xA;&#x9;,dimSourceCategoryID&#xA;&#x9;,dimChannelCategoryName&#xA;&#x9;,dimChannelName&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageChannel.ChannelID AS dimSourceChannelID&#xA;&#x9;,dbo.StageChannel.ChannelCategoryID AS dimSourceChannelCategory&#xA;&#x9;,dbo.StageChannelCategory.ChannelCategory AS dimCategoryName&#xA;&#x9;,dbo.StageChannel.Channel AS dimChannelName&#xA;&#xA;&#x9;FROM StageChannel&#xA;&#x9;INNER JOIN StageChannelCategory&#xA;&#x9;ON StageChannel.ChannelCategoryID = StageChannelCategory.ChannelCategoryID;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table dimCustomer"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{0e1f23e2-4921-4c53-b737-51bfdffa3dd3}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table dimCustomer"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="5">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimCustomer')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimCustomer table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimCustomer&#xA;&#x9;(&#xA;&#x9;dimSourceCustomerID&#xA;&#x9;,dimCustomerFullName&#xA;&#x9;,dimCustomerFirstName&#xA;&#x9;,dimCustomerLastName&#xA;&#x9;,dimGender&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageCustomer.CustomerID AS dimSourceCustomerID&#xA;&#x9;,CONCAT(dbo.StageCustomer.FirstName,' ',dbo.StageCustomer.LastName) AS dimCustomerFullName&#xA;&#x9;,dbo.StageCustomer.FirstName AS dimCustomerFirstName&#xA;&#x9;,dbo.StageCustomer.LastName AS dimCustomerLastName&#xA;&#x9;,dbo.StageCustomer.Gender AS dimGender&#xA;&#x9;FROM StageCustomer;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table DimDate"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{bee6266c-5eec-4cc8-a958-125ecf6a103a}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table DimDate"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="3">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- =========================================================================&#xA;-- Create Stored Proceudre InsDimDateyearly to load one year of data&#xA;-- =========================================================================&#xA;&#xA;IF EXISTS (SELECT name FROM sys.procedures WHERE name = 'InsDimDateYearly')&#xA;BEGIN&#xA;&#x9;DROP PROCEDURE dbo.InsDimDateYearly;&#xA;END&#xA;GO&#xA;&#xA;CREATE PROC [dbo].[InsDimDateYearly]&#xA;( &#xA;&#x9;@Year INT=NULL&#xA;)&#xA;AS&#xA;SET NOCOUNT ON;&#xA;&#xA;DECLARE @Date DATE, @FirstDate Date, @LastDate Date;&#xA;&#xA;SELECT @Year=COALESCE(@Year,YEAR(DATEADD(d,1,MAX(DimDateID)))) FROM dbo.DimDate;&#xA;&#xA;SET @FirstDate=DATEFROMPARTS(COALESCE(@Year,YEAR(GETDATE())-1), 01, 01); -- First Day of the Year&#xA;SET @LastDate=DATEFROMPARTS(COALESCE(@Year,YEAR(GETDATE())-1), 12, 31); -- Last Day of the Year&#xA;&#xA;SET @Date=@FirstDate;&#xA;-- create CTE with all dates needed for load&#xA;;WITH DateCTE AS&#xA;(&#xA;SELECT @FirstDate AS StartDate -- earliest date to load in table&#xA;UNION ALL&#xA;SELECT DATEADD(day, 1, StartDate)&#xA;FROM DateCTE -- recursively select the date + 1 over and over&#xA;WHERE DATEADD(day, 1, StartDate) &lt;= @LastDate -- last date to load in table&#xA;)&#xA;&#xA;-- load date dimension table with all dates&#xA;INSERT INTO dbo.DimDate &#xA;&#x9;(&#xA;&#x9;FullDate &#xA;&#x9;,DayNumberOfWeek &#xA;&#x9;,DayNameOfWeek &#xA;&#x9;,DayNumberOfMonth &#xA;&#x9;,DayNumberOfYear &#xA;&#x9;,WeekdayFlag&#xA;&#x9;,WeekNumberOfYear &#xA;&#x9;,[MonthName] &#xA;&#x9;,MonthNumberOfYear &#xA;&#x9;,CalendarQuarter &#xA;&#x9;,CalendarYear &#xA;&#x9;,CalendarSemester&#xA;&#x9;,CreatedDate&#xA;&#x9;,CreatedBy&#xA;&#x9;,ModifiedDate&#xA;&#x9;,ModifiedBy &#xA;&#x9;)&#xA;SELECT &#xA;&#x9; CAST(StartDate AS DATE) AS FullDate&#xA;&#x9;,DATEPART(dw, StartDate) AS DayNumberOfWeek&#xA;&#x9;,DATENAME(dw, StartDate) AS DayNameOfWeek&#xA;&#x9;,DAY(StartDate) AS DayNumberOfMonth&#xA;&#x9;,DATEPART(dy, StartDate) AS DayNumberOfYear&#xA;&#x9;,CASE DATENAME(dw, StartDate) WHEN 'Saturday' THEN 0 WHEN 'Sunday' THEN 0 ELSE 1 END AS WeekdayFlag&#xA;&#x9;,DATEPART(wk, StartDate) AS WeekNumberOfYear&#xA;&#x9;,DATENAME(mm, StartDate) AS [MonthName]&#xA;&#x9;,MONTH(StartDate) AS MonthNumberOfYear&#xA;&#x9;,DATEPART(qq, StartDate) AS CalendarQuarter&#xA;&#x9;,YEAR(StartDate) AS CalendarYear&#xA;&#x9;,(CASE WHEN MONTH(StartDate)&gt;=1 AND MONTH(StartDate) &lt;=6 THEN 1 ELSE 2 END) AS CalendarSemester&#xA;&#x9;,DATEADD(dd,DATEDIFF(dd,GETDATE(), '2013-01-01'),GETDATE()) AS CreatedDate&#xA;&#x9;,'company\SQLServerServiceAccount' AS CreatedBy&#xA;&#x9;,NULL AS ModifiedDate&#xA;&#x9;,NULL AS ModifiedBy&#xA;FROM DateCTE&#xA;OPTION (MAXRECURSION 0);-- prevents infinate loop from running more than once&#xA;GO&#xA;&#xA;-- ========================================================================&#xA;-- Execute the procedure for 2013 and 2014 (those are the years you need)&#xA;-- ========================================================================&#xA;EXEC InsDimDateYearly 2013&#xA;&#xA;EXEC InsDimDateYearly 2014" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table dimLocation"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{c2412b34-1336-4eb8-9d01-bc35920c04f9}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table dimLocation"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimLocation table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimLocation&#xA;&#x9;(&#xA;&#x9;dimAddress&#xA;&#x9;,dimCity&#xA;&#x9;,dimPostalCode&#xA;&#x9;,dimStateProvince&#xA;&#x9;,dimCountry&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageStore.Address AS dimAddress&#xA;&#x9;,dbo.StageStore.City AS dimCity&#xA;&#x9;,dbo.StageStore.PostalCode AS dimPostalCode&#xA;&#x9;,dbo.StageStore.StateProvince AS dimStateProvince&#xA;&#x9;,dbo.StageStore.Country AS dimCountry&#xA;&#xA;&#x9;FROM StageStore;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table dimProduct"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{50af3b3d-b4da-4efe-9bc9-8bddc9d42db8}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table dimProduct"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="0">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimProduct table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimProduct&#xA;&#x9;(&#xA;&#x9;dimSourceProductID&#xA;&#x9;dimSourceTypeID,&#xA;&#x9;dimProductName,&#xA;&#x9;dimProductType,&#xA;&#x9;dimProductCategory,&#xA;&#x9;dimProductRetailPrice,&#xA;&#x9;dimProductWholesalePrice,&#xA;&#x9;dimProductCost,&#xA;&#x9;dimProductRetailProfit,&#xA;&#x9;dimProductWholesaleUnitProfit,&#xA;&#x9;dimProductProfitMarginUnitPercent&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageProduct.ProductID AS dimSourceProductID&#xA;&#x9;,dbo.StageProduct.ProductTypeID AS dimSourceTypeID&#xA;&#x9;,dbo.StageProduct.Product AS dimProductName&#xA;&#x9;,dbo.StageProductType.ProductType AS dimProductType&#xA;&#x9;,dbo.StageProductCategory.ProductCategory AS dimProductCategory&#xA;&#x9;,dbo.StageProduct.Price AS dimProductRetailPrice&#xA;&#x9;,dbo.StageProduct.WholesalePrice AS dimProductWholesalePrice&#xA;&#x9;,dbo.StageProduct.Cost AS dimProductCost&#xA;&#x9;,(dbo.StageProduct.Price - dbo.StageProduct.Cost) AS dimProductRetailProfit&#xA;&#x9;,(dbo.StageProduct.WholesalePrice - dbo.StageProduct.Cost) AS dimProductWholesaleUnitProfit&#xA;&#x9;,(dbo.StageProduct.WholesalePrice - dbo.StageProduct.Cost)/dbo.StageProduct.WholesalePrice AS dimProductProfitMarginUnitPercent&#xA;&#xA;&#x9;FROM StageProduct&#xA;&#x9;INNER JOIN &#xA;&#x9;&#x9;StageProductType ON StageProduct.ProductTypeID = StageProductType.ProductTypeID;&#xA;END&#xA;GO &#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table dimReseller"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{08f79665-9c37-43a6-997e-eec898c803cf}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table dimReseller"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="6">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimReseller')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimReseller table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimReseller&#xA;&#x9;(&#xA;&#x9;dimSourceResellerID&#xA;&#x9;,dimResellerName&#xA;&#x9;,dimContactName&#xA;&#x9;,dimPhoneNumber&#xA;&#x9;,dimEmailAddress&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageReseller.ResellerID AS dimSourceResellerID&#xA;&#x9;,dbo.StageReseller.ResellerName AS dimResellerName&#xA;&#x9;,dbo.StageReseller.Contact AS dimContactName&#xA;&#x9;,dbo.StageReseller.PhoneNumber AS dimPhoneNumber&#xA;&#x9;,dbo.StageReseller.EmailAddress AS dimEmailAddress&#xA;&#xA;&#x9;FROM StageReseller;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Load Table dimStore"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{30C22C16-B856-40E3-9D62-3454BC53C31F}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Load Table dimStore"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="4">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimStore')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimStore table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimStore&#xA;&#x9;(&#xA;&#x9;dimSourceID&#xA;&#x9;,dimStoreName&#xA;&#x9;,dimStoreNumber&#xA;&#x9;,dimStoreManager&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageStore.StoreID AS dimSourceID&#xA;&#x9;,CONCAT(dbo.StageStore.City, ' ', dbo.StageStore.StoreNumber) AS dimStoreName&#xA;&#x9;,dbo.StageStore.StoreNumber AS dimStoreNumber&#xA;&#x9;,dbo.StageStore.StoreManager AS dimStoreManager&#xA;&#xA;&#x9;FROM StageStore&#xA;&#x9;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -3207,331 +3251,6 @@
               endId="Package\Stage ProductCategory\Destination ProductCategory.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
               startId="Package\Stage ProductCategory\Source ProductCategory.Outputs[OLE DB Source Output]" />
-          </paths>
-        </pipeline>
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
-      DTS:refId="Package\Stage Products"
-      DTS:CreationName="Microsoft.Pipeline"
-      DTS:Description="Data Flow Task"
-      DTS:DTSID="{C548A819-1990-4A3E-9FD3-1CD93D62A313}"
-      DTS:ExecutableType="Microsoft.Pipeline"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Stage Products"
-      DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <pipeline
-          version="1">
-          <components>
-            <component
-              refId="Package\Stage Products\Destination Products"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="Destination Products"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[StageProducts]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">3</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Stage Products\Destination Products.Connections[OleDbConnection]"
-                  connectionManagerID="{BFEF84F6-5367-4381-A04B-1A681CA82510}:external"
-                  connectionManagerRefId="Project.ConnectionManagers[ML-RefVm-765087.DestinationSystem.sa]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].Columns[ProductID]"
-                      cachedDataType="r8"
-                      cachedName="ProductID"
-                      externalMetadataColumnId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[ProductID]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ProductID]" />
-                    <inputColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].Columns[Product]"
-                      cachedDataType="wstr"
-                      cachedLength="255"
-                      cachedName="Product"
-                      externalMetadataColumnId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[Product]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Product]" />
-                    <inputColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].Columns[Year]"
-                      cachedDataType="r8"
-                      cachedName="Year"
-                      externalMetadataColumnId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Year]" />
-                    <inputColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].Columns[ SalesQuantityTarget ]"
-                      cachedDataType="r8"
-                      cachedName=" SalesQuantityTarget "
-                      externalMetadataColumnId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[ SalesQuantityTarget ]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ SalesQuantityTarget ]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[ProductID]"
-                      dataType="r8"
-                      name="ProductID" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[Product]"
-                      dataType="wstr"
-                      length="255"
-                      name="Product" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[Year]"
-                      dataType="r8"
-                      name="Year" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input].ExternalColumns[ SalesQuantityTarget ]"
-                      dataType="r8"
-                      name=" SalesQuantityTarget " />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Stage Products\Destination Products.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Stage Products\Destination Products.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Stage Products\Destination Products.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Stage Products\Destination Products.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Stage Products\Destination Products.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Stage Products\Source Products"
-              componentClassID="Microsoft.ExcelSource"
-              contactInfo="Excel Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;1"
-              description="Excel Source"
-              name="Source Products"
-              usesDispositions="true"
-              version="1">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">'Target Data - Product$'</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.String"
-                  description="The mapping from parameters in the SQL command to variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Stage Products\Source Products.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[Excel Connection Manager 1]"
-                  connectionManagerRefId="Package.ConnectionManagers[Excel Connection Manager 1]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\Stage Products\Source Products.Outputs[Excel Source Output]"
-                  name="Excel Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ProductID]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[ProductID]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ProductID]"
-                      name="ProductID"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Product]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[Product]"
-                      length="255"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Product]"
-                      name="Product"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Year]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[Year]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[Year]"
-                      name="Year"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ SalesQuantityTarget ]"
-                      dataType="r8"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[ SalesQuantityTarget ]"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Output].Columns[ SalesQuantityTarget ]"
-                      name=" SalesQuantityTarget "
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[ProductID]"
-                      dataType="r8"
-                      name="ProductID" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[Product]"
-                      dataType="wstr"
-                      length="255"
-                      name="Product" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[Year]"
-                      dataType="r8"
-                      name="Year" />
-                    <externalMetadataColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Output].ExternalColumns[ SalesQuantityTarget ]"
-                      dataType="r8"
-                      name=" SalesQuantityTarget " />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output]"
-                  isErrorOut="true"
-                  name="Excel Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ProductID]"
-                      dataType="r8"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ProductID]"
-                      name="ProductID" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[Product]"
-                      dataType="wstr"
-                      length="255"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[Product]"
-                      name="Product" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[Year]"
-                      dataType="r8"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[Year]"
-                      name="Year" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ SalesQuantityTarget ]"
-                      dataType="r8"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ SalesQuantityTarget ]"
-                      name=" SalesQuantityTarget " />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Stage Products\Source Products.Outputs[Excel Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-          </components>
-          <paths>
-            <path
-              refId="Package\Stage Products.Paths[Excel Source Output]"
-              endId="Package\Stage Products\Destination Products.Inputs[OLE DB Destination Input]"
-              name="Excel Source Output"
-              startId="Package\Stage Products\Source Products.Outputs[Excel Source Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -6282,7 +6001,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Channel"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="8">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6299,7 +6018,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ChannelCategory"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="9">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6316,7 +6035,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Customer"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="7">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6333,7 +6052,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Product"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="5">
+      DTS:ThreadHint="11">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6350,7 +6069,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ProductCategory"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="8">
+      DTS:ThreadHint="12">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6367,7 +6086,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Products"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="10">
+      DTS:ThreadHint="17">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6384,7 +6103,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ProductType"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="13">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6401,7 +6120,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Reseller"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="7">
+      DTS:ThreadHint="14">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6418,7 +6137,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ResellerStore"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="11">
+      DTS:ThreadHint="18">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6435,7 +6154,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate SalesDetail"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="9">
+      DTS:ThreadHint="10">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6452,7 +6171,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate SalesHeader"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="6">
+      DTS:ThreadHint="15">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6469,12 +6188,29 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Store"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="16">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
           SQLTask:SqlStatementSource="TRUNCATE TABLE dbo.StageStore" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Unknown Member"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{6941B070-DA8C-4E6A-94F3-1799FDA5E5CF}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Unknown Member"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="2">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- =============================&#xA;-- Begin load of unknown member&#xA;-- =============================&#xA;SET IDENTITY_INSERT dbo.dimChannel ON;&#xA;&#xA;INSERT INTO dbo.dimChannel&#xA;(&#xA;dimChannelID&#xA;,dimSourceChannelID&#xA;,dimSourceCategoryID&#xA;,dimChannelCategoryName&#xA;,dimChannelName&#xA;)&#xA;VALUES&#xA;( &#xA;-1&#xA;,-1&#xA;,-1 &#xA;,'Unknown'&#xA;,'Unknown'&#xA;);&#xA;-- Turn the identity insert to OFF so new rows auto assign identities&#xA;SET IDENTITY_INSERT dbo.dimChannel OFF;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -6498,19 +6234,131 @@
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 10]"
       DTS:CreationName=""
-      DTS:DTSID="{FB93DF60-983E-441F-AADF-DF206B06C8CF}"
-      DTS:From="Package\Truncate Products"
+      DTS:DTSID="{2A1C1812-0281-4D6F-AB41-0903A7C64CC5}"
+      DTS:From="Package\Delete Task (DimDate)"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 10"
-      DTS:To="Package\Stage Products" />
+      DTS:To="Package\Create Table DimDate" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 10 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{6765f45f-1363-4030-b51d-877cadbda127}"
+      DTS:From="Package\Delete Task (dimProduct)"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 10 1"
+      DTS:To="Package\Create Table DimProduct" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 10 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{ba58d522-6120-4d5e-9df4-89d73ba9348e}"
+      DTS:From="Package\Delete Task (dimLocation)"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 10 1 1"
+      DTS:To="Package\Create Table dimLocation" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 10 1 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{b56db2fd-e19e-4c88-84fa-1f85c43c4f27}"
+      DTS:From="Package\Delete Task (dimStore)"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 10 1 1 1"
+      DTS:To="Package\Create Table dimStore" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 10 1 1 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{b07c3b6b-e602-4269-9da6-05043c762b1c}"
+      DTS:From="Package\Delete Task (dimReseller)"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 10 1 1 1 1"
+      DTS:To="Package\Create Table dimReseller" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 10 1 1 1 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{f76e2e7c-1d57-416b-a6c5-a468376d2c0d}"
+      DTS:From="Package\Delete Task (dimCustomer)"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 10 1 1 1 1 1"
+      DTS:To="Package\Create Table dimCustomer" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 11]"
       DTS:CreationName=""
-      DTS:DTSID="{D9F82552-281E-4F12-B32D-20358D63141B}"
-      DTS:From="Package\Truncate ResellerStore"
+      DTS:DTSID="{609B4F29-7EDA-40BF-B66C-81CB9C2609F7}"
+      DTS:From="Package\Create Table DimDate"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 11"
-      DTS:To="Package\ResellerStore" />
+      DTS:To="Package\Load Table DimDate" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 11 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{fa783262-6abd-4191-8e7c-89025e2e8b47}"
+      DTS:From="Package\Create Table DimProduct"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 11 1"
+      DTS:To="Package\Load Table dimProduct" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 11 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{5c3b58b1-f761-467d-a906-e3e73b7b87f4}"
+      DTS:From="Package\Create Table dimLocation"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 11 1 1"
+      DTS:To="Package\Load Table dimLocation" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 12]"
+      DTS:CreationName=""
+      DTS:DTSID="{F486D26D-85D3-4BDA-AC9B-1BC9ED84489F}"
+      DTS:From="Package\Delete Task dimChannel"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 12"
+      DTS:To="Package\Create Table" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 13]"
+      DTS:CreationName=""
+      DTS:DTSID="{33E127DB-137E-4EDE-9ED7-32E7D743F74E}"
+      DTS:From="Package\Create Table"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 13"
+      DTS:To="Package\Load Table" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 14]"
+      DTS:CreationName=""
+      DTS:DTSID="{AE687D34-ECA0-4947-AE75-7ADF73B3817A}"
+      DTS:From="Package\Load Table"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 14"
+      DTS:To="Package\Unknown Member" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 15]"
+      DTS:CreationName=""
+      DTS:DTSID="{C9AAD77B-2767-4E00-9D23-3EDC4015E719}"
+      DTS:From="Package\Load Table DimDate"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 15"
+      DTS:To="Package\Add 2013 &amp; 2014" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 16]"
+      DTS:CreationName=""
+      DTS:DTSID="{418BEEB3-3BA2-4FDC-A03F-43F3F7A4FC0A}"
+      DTS:From="Package\Create Table dimStore"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 16"
+      DTS:To="Package\Load Table dimStore" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 16 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{03dab78b-0fd8-4e25-9098-8a6c26387dd5}"
+      DTS:From="Package\Create Table dimReseller"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 16 1"
+      DTS:To="Package\Load Table dimReseller" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 16 1 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{ac849029-6220-4696-a19b-ef3862f00911}"
+      DTS:From="Package\Create Table dimCustomer"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 16 1 1"
+      DTS:To="Package\Load Table dimCustomer" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
       DTS:CreationName=""
@@ -6587,15 +6435,187 @@
     design-time-name="Package">
     <LayoutInfo>
       <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="128" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="164,42"
+          Id="Package\Add 2013 &amp; 2014"
+          TopLeft="264.444444444444,738.888888888889" />
+        <NodeLayout
+          Size="143,42"
+          Id="Package\Create Table"
+          TopLeft="37.9220779220779,595.584415584416" />
+        <NodeLayout
+          Size="211,42"
+          Id="Package\Create Table dimCustomer"
+          TopLeft="526.153846153846,935.128205128206" />
+        <NodeLayout
+          Size="188,42"
+          Id="Package\Create Table DimDate"
+          TopLeft="244.444444444445,591.111111111111" />
+        <NodeLayout
+          Size="205,42"
+          Id="Package\Create Table dimLocation"
+          TopLeft="788,600.666666666667" />
+        <NodeLayout
+          Size="203,42"
+          Id="Package\Create Table DimProduct"
+          TopLeft="508.444444444444,592.111111111111" />
+        <NodeLayout
+          Size="204,42"
+          Id="Package\Create Table dimReseller"
+          TopLeft="266.153846153846,926.666666666668" />
+        <NodeLayout
+          Size="190,42"
+          Id="Package\Create Table dimStore"
+          TopLeft="6,927.757575757576" />
+        <NodeLayout
+          Size="213,42"
+          Id="Package\Delete Task (dimCustomer)"
+          TopLeft="526.153846153846,848.461538461538" />
+        <NodeLayout
+          Size="191,42"
+          Id="Package\Delete Task (DimDate)"
+          TopLeft="244.444444444445,504.444444444444" />
+        <NodeLayout
+          Size="207,42"
+          Id="Package\Delete Task (dimLocation)"
+          TopLeft="788,514" />
+        <NodeLayout
+          Size="204,42"
+          Id="Package\Delete Task (dimProduct)"
+          TopLeft="508.444444444444,505.444444444444" />
+        <NodeLayout
+          Size="206,42"
+          Id="Package\Delete Task (dimReseller)"
+          TopLeft="266.153846153846,840" />
+        <NodeLayout
+          Size="192,42"
+          Id="Package\Delete Task (dimStore)"
+          TopLeft="6,841.090909090909" />
+        <NodeLayout
+          Size="199,42"
+          Id="Package\Delete Task dimChannel"
+          TopLeft="35.7142857142857,502.857142857143" />
+        <NodeLayout
+          Size="134,42"
+          Id="Package\Load Table"
+          TopLeft="42.0779220779221,661.428571428571" />
+        <NodeLayout
+          Size="202,42"
+          Id="Package\Load Table dimCustomer"
+          TopLeft="536.692307692308,1015.06293706294" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Load Table DimDate"
+          TopLeft="268.888888888889,664.444444444444" />
+        <NodeLayout
+          Size="196,42"
+          Id="Package\Load Table dimLocation"
+          TopLeft="812.444444444445,673.999999999999" />
+        <NodeLayout
+          Size="193,42"
+          Id="Package\Load Table dimProduct"
+          TopLeft="532.888888888889,665.444444444443" />
+        <NodeLayout
+          Size="195,42"
+          Id="Package\Load Table dimReseller"
+          TopLeft="276.692307692308,1006.6013986014" />
+        <NodeLayout
+          Size="181,42"
+          Id="Package\Load Table dimStore"
+          TopLeft="16.5384615384616,1007.69230769231" />
         <NodeLayout
           Size="152,42"
           Id="Package\Stage Channel"
           TopLeft="13,89" />
         <NodeLayout
+          Size="196,42"
+          Id="Package\Stage ChannelCategory"
+          TopLeft="210,92" />
+        <NodeLayout
+          Size="158,42"
+          Id="Package\Stage Customer"
+          TopLeft="453,88" />
+        <NodeLayout
+          Size="149,42"
+          Id="Package\Stage Product"
+          TopLeft="660,88" />
+        <NodeLayout
+          Size="193,42"
+          Id="Package\Stage ProductCategory"
+          TopLeft="17,248" />
+        <NodeLayout
+          Size="173,42"
+          Id="Package\Stage ProductType"
+          TopLeft="272,250" />
+        <NodeLayout
+          Size="151,42"
+          Id="Package\Stage Reseller"
+          TopLeft="500,255" />
+        <NodeLayout
+          Size="166,42"
+          Id="Package\Stage SalesDetail"
+          TopLeft="711,261" />
+        <NodeLayout
+          Size="174,42"
+          Id="Package\Stage SalesHeader"
+          TopLeft="30,410" />
+        <NodeLayout
+          Size="137,42"
+          Id="Package\Stage Store"
+          TopLeft="262,406" />
+        <NodeLayout
           Size="166,42"
           Id="Package\Truncate Channel"
           TopLeft="9,11" />
+        <NodeLayout
+          Size="211,42"
+          Id="Package\Truncate ChannelCategory"
+          TopLeft="197,11" />
+        <NodeLayout
+          Size="173,42"
+          Id="Package\Truncate Customer"
+          TopLeft="452,13" />
+        <NodeLayout
+          Size="163,42"
+          Id="Package\Truncate Product"
+          TopLeft="655,13" />
+        <NodeLayout
+          Size="208,42"
+          Id="Package\Truncate ProductCategory"
+          TopLeft="6,175" />
+        <NodeLayout
+          Size="169,42"
+          Id="Package\Truncate Products"
+          TopLeft="493,338" />
+        <NodeLayout
+          Size="188,42"
+          Id="Package\Truncate ProductType"
+          TopLeft="263,177" />
+        <NodeLayout
+          Size="166,42"
+          Id="Package\Truncate Reseller"
+          TopLeft="493,178" />
+        <NodeLayout
+          Size="192,42"
+          Id="Package\Truncate ResellerStore"
+          TopLeft="712,341" />
+        <NodeLayout
+          Size="181,42"
+          Id="Package\Truncate SalesDetail"
+          TopLeft="700,176" />
+        <NodeLayout
+          Size="189,42"
+          Id="Package\Truncate SalesHeader"
+          TopLeft="24,335" />
+        <NodeLayout
+          Size="152,42"
+          Id="Package\Truncate Store"
+          TopLeft="260,336" />
+        <NodeLayout
+          Size="168,42"
+          Id="Package\Unknown Member"
+          TopLeft="32.9870129870131,739.090909090909" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="90.5,53">
@@ -6618,14 +6638,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="211,42"
-          Id="Package\Truncate ChannelCategory"
-          TopLeft="197,11" />
-        <NodeLayout
-          Size="196,42"
-          Id="Package\Stage ChannelCategory"
-          TopLeft="210,92" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
           TopLeft="305.25,53">
@@ -6648,14 +6660,418 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="173,42"
-          Id="Package\Truncate Customer"
-          TopLeft="452,13" />
-        <NodeLayout
-          Size="158,42"
-          Id="Package\Stage Customer"
-          TopLeft="453,88" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10]"
+          TopLeft="339.194444444445,546.444444444444">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.6666666666667"
+              Start="0,0"
+              End="0,37.1666666666667">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.1666666666667" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10 1]"
+          TopLeft="610.194444444444,547.444444444444">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.6666666666663"
+              Start="0,0"
+              End="0,37.1666666666663">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.1666666666663" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10 1 1]"
+          TopLeft="891,556">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.666666666667"
+              Start="0,0"
+              End="0,37.166666666667">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.166666666667" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10 1 1 1]"
+          TopLeft="101.5,883.090909090909">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.666666666667"
+              Start="0,0"
+              End="0,37.166666666667">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.166666666667" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10 1 1 1 1]"
+          TopLeft="368.653846153846,882">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.6666666666678"
+              Start="0,0"
+              End="0,37.1666666666678">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.1666666666678" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 10 1 1 1 1 1]"
+          TopLeft="632.153846153846,890.461538461538">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,44.6666666666681"
+              Start="0,0"
+              End="0,37.1666666666681">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,37.1666666666681" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 11]"
+          TopLeft="338.444444444445,633.111111111111">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="20.4444444444442,31.3333333333333"
+              Start="0,0"
+              End="20.4444444444442,23.8333333333333">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,11.6666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,11.6666666666666"
+                    Point2="0,15.6666666666666"
+                    Point3="4,15.6666666666666" />
+                  <mssgle:LineSegment
+                    End="16.4444444444442,15.6666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="16.4444444444442,15.6666666666666"
+                    Point2="20.4444444444442,15.6666666666666"
+                    Point3="20.4444444444442,19.6666666666666" />
+                  <mssgle:LineSegment
+                    End="20.4444444444442,23.8333333333333" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 11 1]"
+          TopLeft="609.944444444444,634.111111111111">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="19.444444444445,31.333333333332"
+              Start="0,0"
+              End="19.444444444445,23.833333333332">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,11.666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,11.666666666666"
+                    Point2="0,15.666666666666"
+                    Point3="4,15.666666666666" />
+                  <mssgle:LineSegment
+                    End="15.444444444445,15.666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="15.444444444445,15.666666666666"
+                    Point2="19.444444444445,15.666666666666"
+                    Point3="19.444444444445,19.666666666666" />
+                  <mssgle:LineSegment
+                    End="19.444444444445,23.833333333332" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 11 1 1]"
+          TopLeft="890.5,642.666666666667">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="19.944444444445,31.333333333332"
+              Start="0,0"
+              End="19.944444444445,23.833333333332">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,11.666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,11.666666666666"
+                    Point2="0,15.666666666666"
+                    Point3="4,15.666666666666" />
+                  <mssgle:LineSegment
+                    End="15.944444444445,15.666666666666" />
+                  <mssgle:CubicBezierSegment
+                    Point1="15.944444444445,15.666666666666"
+                    Point2="19.944444444445,15.666666666666"
+                    Point3="19.944444444445,19.666666666666" />
+                  <mssgle:LineSegment
+                    End="19.944444444445,23.833333333332" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 12]"
+          TopLeft="135.214285714286,544.857142857143">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-25.7922077922078,50.727272727273"
+              Start="0,0"
+              End="-25.7922077922078,43.227272727273">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.3636363636365" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21.3636363636365"
+                    Point2="0,25.3636363636365"
+                    Point3="-4,25.3636363636365" />
+                  <mssgle:LineSegment
+                    End="-21.7922077922078,25.3636363636365" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-21.7922077922078,25.3636363636365"
+                    Point2="-25.7922077922078,25.3636363636365"
+                    Point3="-25.7922077922078,29.3636363636365" />
+                  <mssgle:LineSegment
+                    End="-25.7922077922078,43.227272727273" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 13]"
+          TopLeft="109.25,637.584415584416">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,23.8441558441556"
+              Start="0,0"
+              End="0,16.3441558441556">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.3441558441556" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 14]"
+          TopLeft="113.032467532468,703.428571428571">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,35.6623376623378"
+              Start="0,0"
+              End="0,28.1623376623378">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,28.1623376623378" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 15]"
+          TopLeft="358.888888888889,706.444444444444">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-12.4444444444444,32.4444444444445"
+              Start="0,0"
+              End="-12.4444444444444,24.9444444444445">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.2222222222222" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.2222222222222"
+                    Point2="0,16.2222222222222"
+                    Point3="-4,16.2222222222222" />
+                  <mssgle:LineSegment
+                    End="-8.4444444444444,16.2222222222222" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-8.4444444444444,16.2222222222222"
+                    Point2="-12.4444444444444,16.2222222222222"
+                    Point3="-12.4444444444444,20.2222222222222" />
+                  <mssgle:LineSegment
+                    End="-12.4444444444444,24.9444444444445" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 16]"
+          TopLeft="104.019230769231,969.757575757576">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,37.9347319347316"
+              Start="0,0"
+              End="0,30.4347319347316">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.4347319347316" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 16 1]"
+          TopLeft="371.173076923077,968.666666666668">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,37.9347319347322"
+              Start="0,0"
+              End="0,30.4347319347322">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.4347319347322" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 16 1 1]"
+          TopLeft="634.673076923077,977.128205128206">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,37.9347319347327"
+              Start="0,0"
+              End="0,30.4347319347327">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.4347319347327" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="535.25,55">
@@ -6678,14 +7094,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="163,42"
-          Id="Package\Truncate Product"
-          TopLeft="655,13" />
-        <NodeLayout
-          Size="149,42"
-          Id="Package\Stage Product"
-          TopLeft="660,88" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
           TopLeft="735.5,55">
@@ -6708,14 +7116,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="208,42"
-          Id="Package\Truncate ProductCategory"
-          TopLeft="6,175" />
-        <NodeLayout
-          Size="193,42"
-          Id="Package\Stage ProductCategory"
-          TopLeft="17,248" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
           TopLeft="111.75,217">
@@ -6738,14 +7138,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="188,42"
-          Id="Package\Truncate ProductType"
-          TopLeft="263,177" />
-        <NodeLayout
-          Size="173,42"
-          Id="Package\Stage ProductType"
-          TopLeft="272,250" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
           TopLeft="357.75,219">
@@ -6768,26 +7160,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="166,42"
-          Id="Package\Truncate Reseller"
-          TopLeft="493,178" />
-        <NodeLayout
-          Size="181,42"
-          Id="Package\Truncate SalesDetail"
-          TopLeft="700,176" />
-        <NodeLayout
-          Size="189,42"
-          Id="Package\Truncate SalesHeader"
-          TopLeft="24,335" />
-        <NodeLayout
-          Size="152,42"
-          Id="Package\Truncate Store"
-          TopLeft="260,336" />
-        <NodeLayout
-          Size="151,42"
-          Id="Package\Stage Reseller"
-          TopLeft="500,255" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
           TopLeft="575.75,220">
@@ -6810,10 +7182,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="166,42"
-          Id="Package\Stage SalesDetail"
-          TopLeft="711,261" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
           TopLeft="792.25,218">
@@ -6836,10 +7204,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="174,42"
-          Id="Package\Stage SalesHeader"
-          TopLeft="30,410" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 8]"
           TopLeft="117.75,377">
@@ -6862,10 +7226,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="137,42"
-          Id="Package\Stage Store"
-          TopLeft="262,406" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 9]"
           TopLeft="333.25,378">
@@ -6888,66 +7248,6 @@
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="154,42"
-          Id="Package\Stage Products"
-          TopLeft="502,409" />
-        <NodeLayout
-          Size="169,42"
-          Id="Package\Truncate Products"
-          TopLeft="493,338" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 10]"
-          TopLeft="578.25,380">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,29"
-              Start="0,0"
-              End="0,21.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,21.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="192,42"
-          Id="Package\Truncate ResellerStore"
-          TopLeft="712,341" />
-        <NodeLayout
-          Size="146,42"
-          Id="Package\ResellerStore"
-          TopLeft="736,409" />
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 11]"
-          TopLeft="808.5,383">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,26"
-              Start="0,0"
-              End="0,18.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,18.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -6955,7 +7255,7 @@
     design-time-name="Package\Stage Channel">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="158,42"
           Id="Package\Stage Channel\Source Channel"
@@ -6995,7 +7295,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -7031,7 +7333,7 @@
     design-time-name="Package\Stage ChannelCategory">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="202,42"
           Id="Package\Stage ChannelCategory\Source ChannelCategory"
@@ -7071,14 +7373,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ChannelCategory\Source ChannelCategory">
+    design-time-name="Package\Stage ChannelCategory\Destination ChannelCategory">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7091,7 +7395,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ChannelCategory\Destination ChannelCategory">
+    design-time-name="Package\Stage ChannelCategory\Source ChannelCategory">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7107,7 +7411,7 @@
     design-time-name="Package\Stage Customer">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="164,42"
           Id="Package\Stage Customer\Source Customer"
@@ -7147,14 +7451,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage Customer\Source Customer">
+    design-time-name="Package\Stage Customer\Destination Customer">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7167,7 +7473,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage Customer\Destination Customer">
+    design-time-name="Package\Stage Customer\Source Customer">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7183,15 +7489,15 @@
     design-time-name="Package\Stage Product">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="175,42"
-          Id="Package\Stage Product\Destination Product"
-          TopLeft="425,203" />
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="155,42"
           Id="Package\Stage Product\Source Product"
           TopLeft="186,86" />
+        <NodeLayout
+          Size="175,42"
+          Id="Package\Stage Product\Destination Product"
+          TopLeft="425,203" />
         <EdgeLayout
           Id="Package\Stage Product.Paths[OLE DB Source Output]"
           TopLeft="263.5,128">
@@ -7223,7 +7529,9 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -7233,7 +7541,7 @@
     design-time-name="Package\Stage ProductCategory">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="199,42"
           Id="Package\Stage ProductCategory\Source ProductCategory"
@@ -7273,14 +7581,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ProductCategory\Source ProductCategory">
+    design-time-name="Package\Stage ProductCategory\Destination ProductCategory">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7293,7 +7603,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ProductCategory\Destination ProductCategory">
+    design-time-name="Package\Stage ProductCategory\Source ProductCategory">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7309,7 +7619,7 @@
     design-time-name="Package\Stage ProductType">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="179,42"
           Id="Package\Stage ProductType\Source ProductType"
@@ -7349,14 +7659,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ProductType\Source ProductType">
+    design-time-name="Package\Stage ProductType\Destination ProductType">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7369,7 +7681,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage ProductType\Destination ProductType">
+    design-time-name="Package\Stage ProductType\Source ProductType">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7385,7 +7697,7 @@
     design-time-name="Package\Stage Reseller">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="157,42"
           Id="Package\Stage Reseller\Source Reseller"
@@ -7425,14 +7737,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage Reseller\Source Reseller">
+    design-time-name="Package\Stage Reseller\Destination Reseller">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7445,7 +7759,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage Reseller\Destination Reseller">
+    design-time-name="Package\Stage Reseller\Source Reseller">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7461,7 +7775,7 @@
     design-time-name="Package\Stage SalesDetail">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="173,42"
           Id="Package\Stage SalesDetail\Source SalesDetail"
@@ -7501,14 +7815,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage SalesDetail\Source SalesDetail">
+    design-time-name="Package\Stage SalesDetail\Destination SalesDetail">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7521,7 +7837,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage SalesDetail\Destination SalesDetail">
+    design-time-name="Package\Stage SalesDetail\Source SalesDetail">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7537,7 +7853,7 @@
     design-time-name="Package\Stage SalesHeader">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="180,42"
           Id="Package\Stage SalesHeader\Source SalesHeader"
@@ -7577,14 +7893,16 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage SalesHeader\Source SalesHeader">
+    design-time-name="Package\Stage SalesHeader\Destination SalesHeader">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7597,7 +7915,7 @@
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage SalesHeader\Destination SalesHeader">
+    design-time-name="Package\Stage SalesHeader\Source SalesHeader">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -7613,7 +7931,7 @@
     design-time-name="Package\Stage Store">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="143,42"
           Id="Package\Stage Store\Source Store"
@@ -7653,25 +7971,14 @@
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Stage Store\Source Store">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Stage Store\Destination Store">
     <Properties>
@@ -7685,147 +7992,8 @@
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Stage Products">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="160,42"
-          Id="Package\Stage Products\Source Products"
-          TopLeft="183,132" />
-        <NodeLayout
-          Size="180,42"
-          Id="Package\Stage Products\Destination Products"
-          TopLeft="231,245" />
-        <EdgeLayout
-          Id="Package\Stage Products.Paths[Excel Source Output]"
-          TopLeft="263,174">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="58,71"
-              Start="0,0"
-              End="58,63.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,31.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,31.5"
-                    Point2="0,35.5"
-                    Point3="4,35.5" />
-                  <mssgle:LineSegment
-                    End="54,35.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="54,35.5"
-                    Point2="58,35.5"
-                    Point3="58,39.5" />
-                  <mssgle:LineSegment
-                    End="58,63.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Stage Products\Source Products">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Stage Products\Destination Products">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\ResellerStore">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="184,42"
-          Id="Package\ResellerStore\Source ResellerStore"
-          TopLeft="183,132" />
-        <NodeLayout
-          Size="204,42"
-          Id="Package\ResellerStore\Destination ResellerStore"
-          TopLeft="295,263" />
-        <EdgeLayout
-          Id="Package\ResellerStore.Paths[Excel Source Output]"
-          TopLeft="275,174">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="122,89"
-              Start="0,0"
-              End="122,81.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,40.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,40.5"
-                    Point2="0,44.5"
-                    Point3="4,44.5" />
-                  <mssgle:LineSegment
-                    End="118,44.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="118,44.5"
-                    Point2="122,44.5"
-                    Point3="122,48.5" />
-                  <mssgle:LineSegment
-                    End="122,81.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\ResellerStore\Source ResellerStore">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\ResellerStore\Destination ResellerStore">
+    design-time-name="Package\Stage Store\Source Store">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
