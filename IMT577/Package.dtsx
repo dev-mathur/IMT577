@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="72"
-  DTS:VersionGUID="{E2E326B3-C7C6-4719-ACE4-BE2E136CB7B6}">
+  DTS:VersionBuild="75"
+  DTS:VersionGUID="{9CD6756B-4ADF-4A0F-B7F3-7D4F8B21ED39}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -57,7 +57,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACr1H65/MdbVz4UIW4G7yoLWSSmR2qoiJHEJWgQiBkN7AAAAAAOgAAAAAIAACAAAAAhy5nJAq3wzvCa2lduPcCxQDDq7IwtTyB65GU7lb5zIzAAAACoezwSOYC35Jze9f/0zUdGAalVSj9oWkoFrF/7akkgs9Y6+QtHTuDM9DdaAx81eL5AAAAA2e9En72vlvHzD9HUT8KyVNUvlF7FwG23aSsxTLzVpnWEkTrGM3Mn0IOUngJIDBYyXuTh0TUDEZMOJxj7qefizg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB1lP0XA5DTqHe/kyuZQGdLEgaKxfWAIyztgzFOqUsfZgAAAAAOgAAAAAIAACAAAABIGO7HLbILSr4BU8SS8uXAWEZvTKt0vOGeAn69/FbvtzAAAADaPm1Mgkk9Devp4elDMeVpjfuiFGGGmzVJPIpl3CS+OEnW2FtfV+KdkVufJ6/yBoBAAAAAuBz3qsf2WJyZdc21/L6+angVnaYhuXbLkq1eDQrY9R8AowOclWOolyR/HHkfnttPyW/WU+K/oEfidLrfQg8yvQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -72,7 +72,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACfWgSOguhzvkStRTyrHyCDjjzL97S+h5Qs+rfP7S5mCAAAAAAOgAAAAAIAACAAAAAAC59+KaxnlWymFOu4r9mz2AyZvX/lkzJ5McGB6zmnuTAAAACEYtqBHE3EIBiKtP8Ogs2tlqKoW03N55cah90e9NkgYM8SANuuShKSdc2lw9kbBCBAAAAAcVBmGE/DC5S1mYU+IjN+8EuBAcGvRxIkDn9/bzZ3Hgn5xepfYDFWcx74eBWjqxjhazRX284SMGLmCzfP+2Bk8w</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA4MzdpcXrk8EUJHOaxbiY/FIjSXbcg/w4x07CQvV5G/AAAAAAOgAAAAAIAACAAAADP6EWHjCdFjwy2XpJ/yVz2+3+2UDMmKqSd2ftrYJLjaDAAAAClIXdqSeMct0Bn1804OuiWMzMgYJAwDav69mhjpWtX+IUt17NZbp3Pp0Pf9hUjMctAAAAAMV4Hvq6iY67yxHvohJlk/EedB80nQZF+s1QjzNUUUBnS8yARCZ5r5qz22SgUTHalBb6o+AAjyDS1VIhdGnshIw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -87,7 +87,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAiGO6DZ3GgxfZZtKa59qWRBH08Wo6nYyhy3Vwz8pFZUQAAAAAOgAAAAAIAACAAAAD39mLEwdOWwEJ7cGIY7Jr/O7stiz9z3U1NLEWznQgQczAAAAD8la5RMvPSMMo0di543oRioK3s/oOYVXh4KpwD2W+VIf756kbZgE0O7nxw7Gxpb/9AAAAAE8Lt2W4JZW7d4YhvBTu6wFRyqNJoESv995Yefoav31N4T4SF/vOf+65yZHDRmztZrnUZxK4bLpZhXEgy64ndSw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADLA3k3Y+PPIX96lMj0a05wQeqZlIGpM2yQJe5awl0CZgAAAAAOgAAAAAIAACAAAAAVA1McO6+SXlWk08HixSH632esWVOB/PCn/m5a3XPCGjAAAADqPxyOcTbwoNqjjbBywLtcNH5lvc46JbpfGsCxobL9MDE2OKfl/0YmWtHlAr0LVbBAAAAAr9rsMko403uuC+gJs5rg2kiMnHHA4qoy9DHH9qfpMuoz939T36EmlukYvD80dRzOXw11qxlXHjtjQSEsk5kIAA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -102,7 +102,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD6eSHuFsHrzB9FKOXw4n7EgwVwlG6K9InnxAkYZwHmcQAAAAAOgAAAAAIAACAAAADUEkscX3H6Km+ynWKNdBYZ6CYGhKzi7pNB2SXbQ4jpjTAAAADqqpHU5khH0ctUlY+ZYZ6VotOZsLgHq2qv1I3l6YD3YcWPFe/0Gmc9uG1D/SW9mCRAAAAAvEGygap6gHLH9XMmGVZq2t63zFMw7DPNBPT4QmS1A09ZBLVoeHGxyqcOcVyWFwHI5Vsx4Qc2TSrKKXjUSexazA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB1hkgAyWjLVGEY0jroJ6gxuazLmfh/W6YsxpEW39vlNQAAAAAOgAAAAAIAACAAAADclc/OHez6MLKBQIy7onBmoFsF0Sqx8wmKNhXytZeamDAAAAB58o9PUt4kHfzayD1wH3JRJGXazxWsYIrl1xSBHOVJvZp0w6Y5LJP4G509UZsybAxAAAAAEGnEQdX4YfOgtdZWj7CZkTBFOFP/NWha+UnWMzzeUG/KcNCRXFm0oql6UGex/y7E8YlhBbJPi0X/OQRBn1wpVQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -117,7 +117,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAARM4OwvOA1j01NSzSDWtSslAy2KtLUpX1GzdLxGaX/owAAAAAOgAAAAAIAACAAAADNUhMaGQIyOstoI//nWmqZky6HlP0LqzGD/J5gywdnzTAAAABBcw7DHNqxmPNi3kU4icpkNY6u7kQ+TuR3DQO0zo4mG5T6sctAn9VUsho/bnFJyIRAAAAA4OtL/yqwHhdkenYxmvJeHebj4IPQGrySwSOV0qOfBYi2NpMCWTxb0p/ILa8QDPMrmrp70bAL7q6UsUZ8/Xt7FQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACypDk9wiQFlUWP8xEA4dW3MNYiJpqlzXfEstoGQzblQgAAAAAOgAAAAAIAACAAAAA67bGnSXiy1K3Mntt9uEDSmQV9Sm+Ypzs79ZOO63a9gzAAAAAdEqECdm4o8MTOAqss80wsaCT2m26iZ9r99I0RlR/GG8VGWa0I5vACtog/rqfLCc1AAAAAeyfn2JYOMtJG3R4gX70M0w1v5XFfN4YzSnisB71THcdAaaEhR6mca4eQcrDlML6fhvZ/qBE+Gap65dUkdRjnrw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -132,7 +132,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACvabRRevyIgyfhXo3JlmELHE5/olaRmGFa+Hfb1H734AAAAAAOgAAAAAIAACAAAABq9kJBXdLAJ7Jvm6PFgqE0NV9RGQfW69akNf5CJrt+gTAAAACfLKf6ljR3xCswD9dLu/yJhz4D7rx6mRaM2qeVf4T5HBPmVq9ocMdTVs8P48/NAitAAAAAh+rRQYXt2ygHx6PpvClyAvpS4ySRp22m0yqZXFP9agYWsF8eWzjO0qT0o35PAPiaHQxcR6XKHow6zdPLoTTgTw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAApu/bMjZfNd/NBdVtlwsiD/SJ0Y4y/IkQQbxIxkMXdpwAAAAAOgAAAAAIAACAAAABkeQOZqVydZ7YS/yZiy0ivE6pbcPVvvFix57Zj711AJTAAAACw0n0adLDdg8G5etuHmEOePoeUsq3IjB04HiweGgBY0yUKiKzrH8cGrtpwlvGkC5pAAAAAZTvqxdveg6JO9TLPXhaqAdHQ3796gah1FBdcEO1PuYrqDZG9mjHkgHuFWJW3rShvvTN+5F5EzMPvikIWhR/57Q</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -147,7 +147,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAj+o+SD1nIDGXO20HQ/CYkoMuVVv8jai/AJ1OwUgmyywAAAAAOgAAAAAIAACAAAADxkInb9fflNPvB13VRW/UOvzmepvmgRL/SDUWQq35S6DAAAADv7PfU5eOfvGvTObMEbfddE/6gjJy2t+xJ8EsFjHnxZbW7jWciyYENpaYxSJ3SuFFAAAAAVyTW2J7cV7cBZXyM8r7omC0qq8Cfos0idDZ6BTRJi1RdAQ8Ap6di2M2mJojGYxX+4fJ1JKmTFJevB1IbUnhyEQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABN6GUgwsITMkTUW+EWh3kn9NxSEBLVQOdQeO5JtaC8FgAAAAAOgAAAAAIAACAAAADZhH6OxL/LjPes2ST8eVz/YAZAwjmomlmd7wDUyP19TDAAAADPyOM9eTa9f7y+bvc8TmkfzTfUnflWbVK5CyvgOB+peNmfrNzCFSjjM5gDOcxvcxVAAAAAYEiXBvk904Vf87q5JOtjiN2YGE0Q+eHFU+Rt9HEaLyBWhmsVGCMi5spc9SN8QenQh/7ow+5NSF82AQL5EDtsdQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -162,7 +162,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAByW7Bjbd/BuAymzWD23oTX5SFVDDGmMoiKgoHUfHgAjQAAAAAOgAAAAAIAACAAAAA5Q+xoESKqdgZxmUwn/iL4+mL2lZG+p9GSRtKQkjFbdDAAAAAL4XH3MKN0Mk47pbrS25xg4epXH9Sjf/Zn0jj+71egwnAE7OrzbCiXJOxgMh2EUaJAAAAAVoSbBxbvQXKdXLe556mOkI5KPPjRp2LQf2z4/B6iCtOzHuLNnffx27Bu9/lNEkgaeNUdt3U8Qt/Wz6VAX0fmnA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADsihzG6m+b3SGtBF+uVYxCxT16/+/z0+AqGoKXAZHJ8wAAAAAOgAAAAAIAACAAAABJVYss2aB+qy4J0khVqeOxPGDdnEuNCpAWhsCV/cGIATAAAAA90yx4znclnI1wWu+L/5TbI9MJE74/8KCIwpTzpBPTxfuc3zK6dtQE2/E0JbCEZERAAAAAAOJbQF7NId+avtXgQPQaOKQV8FHIGIQbJxlfcU7pYvm4FJlQfzwaTUQ8rqRIqKt+HcZCuwmOUhTOHEzSMRwaDQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -177,7 +177,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA3Le8oALBzy4+fXRtPCQUBXDl+7UxvcT8oXeZSehLwUwAAAAAOgAAAAAIAACAAAABC2iX8gYtKeFEZ0Xok6WKeciM7dz9aSCrTHxc6s7dwMjAAAAB36HUKNL4A+UbVkRjq+aqXlUNx309g3Z8up3WZiOIh/0xs8zwLk8DXiFHVTrNP+TVAAAAAWr4FTjrtqgPmu4kr1U8aniOyK+zizDNKyGUEN5anjUs12seDaLw+kkE7RCyHADKJ/KLQ5+FHsuPkdNjltCkgrA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB0znbijD83oE8PwQ2+l+z710NdNdwqflPtjyQVADzEdwAAAAAOgAAAAAIAACAAAAANP+mNr1tCvLoHuTlPtX/SBCxYdeAajE4fzXN6M4lwwjAAAABQ15RXZvSk3NRMzKiziNWTkZTZd7a5fhiNjzxQmgNqag/XcQJ8OeVXJKmJAsj1dCpAAAAAsXvgUTZkht7zlEOZf+mivnRKJTFNb+6ViO9SrmkVjtaa/CKjGWinbvAa+PxD/b8zs82H9sRw8eSuNIkGiygfgw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -192,7 +192,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADpeQIPoj3MAF4z5Ye4sReEoIsahj99Xab3NfoS8+882wAAAAAOgAAAAAIAACAAAAB3JiNc1+dZZn5BfzgDSsTL2UOR1/KZnUd5m7ZfE75TtjAAAADtUAnngtzADa90PGkNSp/3ZtMMCDr61/uqD1Ok3ubUX7Lhw2hKLUsoizclBbWvaMtAAAAAidguCHrfBgybXCIEHWc3Tp+jXGG2oycAtNXqMhcYj4QrjXyswpXXf0gqvzOMz4O8d84dIe7Uy18L5rg+1p+WtQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAQ8AHhRxziQ5Rl7rZYqcbK04AR4QaY1uxJ1pX5Ind6SwAAAAAOgAAAAAIAACAAAAAiJRBgIVSLF1NsgYnLPwHAx+K8CE3L8Tpro3iBAh9GUjAAAADGnGpkD69/JNI51VnZlokB/cZ8/0Gpr88m4SHFwnyqMPH2MQ2Fk2yu3hUZ5S2ZL7tAAAAADyT6XVAgTchFhYKCkYmE16w34XOAxe6M3LzGC5Pux84H/acJql+7QwQL3FH/shRM+bFlnBMKJz/9EW7W5mQ8VA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -207,7 +207,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABdoZdOloBUvQ+kME6laFyvlYsYLF/0dcjKu+tOO/JEgwAAAAAOgAAAAAIAACAAAACIWzULyHwDEvbjsfanxXOcIwAh8rtFptIWV82uaZgPDDAAAAB9Dc6Rpp02UxS9v5Df9DHvkgmuZ3CmFPNfC3Qcn8BYnBoq5fARgiLFy5mecV+Lb7hAAAAAHiIJUaqAt7we0ZwORe5C8cAjMVto6sZcMBxFJOxR91fNDrkBwRUdWK5DZfMDZMnzkfaJPHVrPbaabfP5Xf7LUA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABLl4KWVGJZXpvQ04bJh3OK9fb3HGClopwRjrEBo3QKtQAAAAAOgAAAAAIAACAAAAAx0ltRxM+h2XmCxm1YwGyAOt3vm7ruqkFU2FTDcntuijAAAABNJ+4A5m0VrNnOATcoCYSnouWMhjROt3KBtZBV2f9OrIVXSa0tWd53I9WTnZoTDe1AAAAAHB8mdJLWOFACjms9o8sx0QRS+8EDgL0DVjR5ZI7TnjxKaZFy8PcFTv+tAB0OrWHegsgyZAfG4OP/BGbKoJqtTw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -222,7 +222,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACwmscPpQzL+UOLfxWRLk5LPc9gR1804BKFCZ6BwlaaIgAAAAAOgAAAAAIAACAAAABRBxIsAxNJtJ0NyPfZ9sXmalzbzGSmT7+TCPrSGDYdATAAAACbZZp+VpxodQKDLUJKvfxBxyu9xc9BCXRd6av9KW7Hbhg+WnkuHYZYt+UplXRw0qlAAAAAJrwMrcGy/BsQ6GXyGMxixB6M7fRyfljPhFw0vjQwZcF0Mg5Mr4r1eyDvI3Pf9buXsVpAkDUXVLM58G4eqY2yYw</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADnc9+n82o1qEy6crVsKgBW1Xdtab+9ps6LE7/pCcoz9AAAAAAOgAAAAAIAACAAAABRxGOfMkJm212YthlEDa84Fh4Se38N7+lAk1QGFOfEGDAAAAC8RDR12EC6CgvCorAHFE65R9uL1EJJJWgQ64eT0Jg6yrlfyE8vuVa0BUSR9jRSjwhAAAAARR0P/3G98aLKz0QQSfK0FurZBOUJGrFQ8CLsF0cLyxveR5C6QgrecBpogC+h2t0pz9V0lcLtmKMYSf7pITk0yQ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -237,7 +237,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABgNjoj7NGNpxzZm3ym0DLJ9s3iYeR4o1Op02Z2moAsSQAAAAAOgAAAAAIAACAAAADLHjTRXDbZAs82SqiQKyEE5+CVHhAzDaX2mv9A2EeCzzAAAAC5ZM1dHeRH49PvX6AOJ8W0kuaJZEHImNd7zucxMHyOEDJK4cBpjuE0lXMfAdEBKQxAAAAAbSzRfxViQE8cDLbnLZCVeDB1cx3O+Q+t7ZGyA5dBP0X7efG7l26x9QlCyTaGQysp/+IqBwZMqOPITrtIYqd4Lg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADtplXt7E5Jwc6F6B9CQIS1o9ozCifXgHZjurdQ29h18wAAAAAOgAAAAAIAACAAAAA61b8dmxQeZjV3E3hQ0863+0E4StU0Hw+5u7QP4zTOGTAAAAD3Wtc4xvRUcWGceqD3Ecz/QL9meYlh7F9ylA1r6XfSwniN7aP50x0YPC/00CDeovFAAAAAYp0jnW3BzsZkT2wISVHJVTZziJEdK9L0BXNtYx4c0yuNa6kDi68glnfYSBApl8OPbCgIk7tREjhICPD+BsIzTA</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -252,7 +252,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADCdl6Bue3RPsBB/NpmXFEZ6QxCPrSprtrmMlPbYAMCXgAAAAAOgAAAAAIAACAAAADuRzvsqNdGPh1U72uOARs17J/jv6EFN1f3kWn+Rrh1xTAAAAATc6xOGvrPOwKG/J/afhP7MAlq1OUrDpw6HEDjF2XS7zNdfsy5rZiy5i8oUSM8FDZAAAAADMJF2y7OXuFpsopfCxYyChVwG4YSzNJOiwQMIHzb7OFuNIhYjXlnSCc25D/6tEPCnQgsi0mSVl5cVN4OHENLTA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAwYc9cag84EmDEg74nYz3VgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACEt5eJaDHXNRhQnHyZngxzj1kaL72bsXsFzlZPNgAJgAAAAAAOgAAAAAIAACAAAACu/VzMjZQ5P4hviZtSYEaAeUSsPL0CTITs8HY/NI6mTTAAAADkiL+DQLu4FbXeYJfwd0Bbb7x6KW0FEVEtanuNQOKp5qhKQ4s3yyDJiJFVCyTQ3chAAAAAzIO+Wk1Rke1kIOJZ3mxGGnv6IgIM6WE03ATX8hjHKpRiFVDR4teNHUI3AivhvawfGJWaFmlZHiMiBTVbOP6DEw</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -268,7 +268,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Add 2013 &amp; 2014"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -285,7 +285,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -302,7 +302,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table dimCustomer"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="5">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -319,7 +319,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table DimDate"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -336,7 +336,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table dimLocation"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -353,12 +353,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table DimProduct"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="4">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
-          SQLTask:SqlStatementSource="IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimProduct&#xA;&#x9;(&#xA;&#x9;dimProductID INT IDENTITY(1,1) CONSTRAINT PK_dimChannel PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey&#xA;&#x9;dimSourceProductID INT NOT NUll, --Natural Key&#xA;&#x9;dimSourceTypeID INT NOT NUll, --Natural Key&#xA;&#x9;dimSourceCategoryID INT NOT NUll, --Natural Key&#xA;&#x9;dimProductName VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductType VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductCategory VARCHAR(50) NOT NULL,&#xA;&#x9;dimProductRetailPrice NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductWholesalePrice NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductCost NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductRetailProfit NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductWholesaleUnitProfit NUMERIC(18,2) NOT NULL,&#xA;&#x9;dimProductProfitMarginUnitPercent NUMERIC(18,2) NOT NULL&#xA;&#x9;);&#xA;END&#xA;GO&#xA;&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- Create dimProduct table&#xA;-- ====================================&#xA;&#xA;IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;CREATE TABLE dbo.dimProduct&#xA;&#x9;(&#xA;&#xA;&#x9;dimProductKey [INT] IDENTITY(1,1) NOT NULL CONSTRAINT PK_dimProduct PRIMARY KEY, -- PK&#xA;&#x9;ProductID [INT] NOT NULL, -- Surrogate Key&#xA;&#x9;ProductTypeID [INT] NOT NULL, -- Surrogate Key&#xA;&#x9;ProductCategoryID [INT] NOT NULL, -- Surrogate Key&#xA;&#x9;ProductName [NVARCHAR] (50) NOT NULL,&#xA;&#x9;ProductType [NVARCHAR] (50) NOT NULL,&#xA;&#x9;ProductCategory [NVARCHAR] (50) NOT NULL,&#xA;&#x9;ProductRetailPrice [NUMERIC] (18,2) NOT NULL,&#xA;&#x9;ProductWholesalePrice [NUMERIC] (18,2) NOT NULL,&#xA;&#x9;ProductCost [NUMERIC] (18,2) NOT NULL,&#xA;&#x9;ProductRetailProfit [NUMERIC] (18,2) NOT NULL,&#xA;&#x9;ProductWholesaleUnitProfit [NUMERIC] (18,2) NOT NULL,&#xA;&#x9;ProductProfitMarginUnitPercent [INT] NOT NULL&#xA;&#x9;)&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -370,7 +370,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table dimReseller"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="6">
+      DTS:ThreadHint="5">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -387,7 +387,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Create Table dimStore"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="6">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -404,7 +404,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (dimCustomer)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="5">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -421,7 +421,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (DimDate)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -438,12 +438,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (dimLocation)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
-          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA; DELETE FROM dbo.dimLocation;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- Delete dimLocation table&#xA;-- ====================================&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA;&#x9;DROP TABLE dbo.dimLocation;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -455,12 +455,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (dimProduct)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="4">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
-          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;DELETE FROM dbo.dimProduct;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- Delete dimProduct table&#xA;-- ====================================&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;DROP TABLE dbo.dimProduct;&#xA;END&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -472,7 +472,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (dimReseller)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="6">
+      DTS:ThreadHint="5">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -489,7 +489,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task (dimStore)"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="6">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -506,7 +506,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Delete Task dimChannel"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -523,7 +523,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -540,7 +540,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table dimCustomer"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="5">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -557,7 +557,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table DimDate"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="3">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -574,12 +574,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table dimLocation"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="3">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
-          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimLocation table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimLocation&#xA;&#x9;(&#xA;&#x9;dimAddress&#xA;&#x9;,dimCity&#xA;&#x9;,dimPostalCode&#xA;&#x9;,dimStateProvince&#xA;&#x9;,dimCountry&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageStore.Address AS dimAddress&#xA;&#x9;,dbo.StageStore.City AS dimCity&#xA;&#x9;,dbo.StageStore.PostalCode AS dimPostalCode&#xA;&#x9;,dbo.StageStore.StateProvince AS dimStateProvince&#xA;&#x9;,dbo.StageStore.Country AS dimCountry&#xA;&#xA;&#x9;FROM StageStore;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimLocation')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimLocation table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimLocation&#xA;&#x9;(&#xA;&#x9;dimAddress&#xA;&#x9;,dimCity&#xA;&#x9;,dimPostalCode&#xA;&#x9;,dimStateProvince&#xA;&#x9;,dimCountry&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageCustomer.Address AS dimAddress&#xA;&#x9;,dbo.StageCustomer.City AS dimCity&#xA;&#x9;,dbo.StageCustomer.PostalCode AS dimPostalCode&#xA;&#x9;,dbo.StageCustomer.StateProvince AS dimStateProvince&#xA;&#x9;,dbo.StageCustomer.Country AS dimCountry&#xA;&#x9;FROM StageCustomer&#xA;&#x9;UNION ALL&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageReseller.Address AS dimAddress&#xA;&#x9;,dbo.StageReseller.City AS dimCity&#xA;&#x9;,dbo.StageReseller.PostalCode AS dimPostalCode&#xA;&#x9;,dbo.StageReseller.StateProvince AS dimStateProvince&#xA;&#x9;,dbo.StageReseller.Country AS dimCountry&#xA;&#x9;FROM StageReseller&#xA;&#x9;UNION ALL&#xA;&#x9;SELECT&#xA;&#x9;dbo.StageStore.Address AS dimAddress&#xA;&#x9;,dbo.StageStore.City AS dimCity&#xA;&#x9;,dbo.StageStore.PostalCode AS dimPostalCode&#xA;&#x9;,dbo.StageStore.StateProvince AS dimStateProvince&#xA;&#x9;,dbo.StageStore.Country AS dimCountry&#xA;&#x9;FROM StageStore;&#xA;END&#xA;GO " xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -591,12 +591,12 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table dimProduct"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="4">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
-          SQLTask:SqlStatementSource="IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN&#xA;&#x9;-- ====================================&#xA;&#x9;-- Load dimProduct table&#xA;&#x9;-- ====================================&#xA;&#xA;&#x9;INSERT INTO dbo.dimProduct&#xA;&#x9;(&#xA;&#x9;dimSourceProductID&#xA;&#x9;dimSourceTypeID,&#xA;&#x9;dimProductName,&#xA;&#x9;dimProductType,&#xA;&#x9;dimProductCategory,&#xA;&#x9;dimProductRetailPrice,&#xA;&#x9;dimProductWholesalePrice,&#xA;&#x9;dimProductCost,&#xA;&#x9;dimProductRetailProfit,&#xA;&#x9;dimProductWholesaleUnitProfit,&#xA;&#x9;dimProductProfitMarginUnitPercent&#xA;&#x9;)&#xA;&#x9;SELECT &#xA;&#x9;dbo.StageProduct.ProductID AS dimSourceProductID&#xA;&#x9;,dbo.StageProduct.ProductTypeID AS dimSourceTypeID&#xA;&#x9;,dbo.StageProduct.Product AS dimProductName&#xA;&#x9;,dbo.StageProductType.ProductType AS dimProductType&#xA;&#x9;,dbo.StageProductCategory.ProductCategory AS dimProductCategory&#xA;&#x9;,dbo.StageProduct.Price AS dimProductRetailPrice&#xA;&#x9;,dbo.StageProduct.WholesalePrice AS dimProductWholesalePrice&#xA;&#x9;,dbo.StageProduct.Cost AS dimProductCost&#xA;&#x9;,(dbo.StageProduct.Price - dbo.StageProduct.Cost) AS dimProductRetailProfit&#xA;&#x9;,(dbo.StageProduct.WholesalePrice - dbo.StageProduct.Cost) AS dimProductWholesaleUnitProfit&#xA;&#x9;,(dbo.StageProduct.WholesalePrice - dbo.StageProduct.Cost)/dbo.StageProduct.WholesalePrice AS dimProductProfitMarginUnitPercent&#xA;&#xA;&#x9;FROM StageProduct&#xA;&#x9;INNER JOIN &#xA;&#x9;&#x9;StageProductType ON StageProduct.ProductTypeID = StageProductType.ProductTypeID;&#xA;END&#xA;GO &#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- load dimProduct table&#xA;-- ====================================&#xA;&#xA;IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimProduct')&#xA;BEGIN &#xA;&#x9;INSERT INTO DestinationSystem.dbo.dimProduct&#xA;&#x9;(&#xA;&#x9;ProductID,&#xA;&#x9;ProductTypeID,&#xA;&#x9;ProductCategoryID,&#xA;&#x9;ProductName,&#xA;&#x9;ProductType,&#xA;&#x9;ProductCategory,&#xA;&#x9;ProductRetailPrice,&#xA;&#x9;ProductWholesalePrice,&#xA;&#x9;ProductCost,&#xA;&#x9;ProductRetailProfit,&#xA;&#x9;ProductWholesaleUnitProfit,&#xA;&#x9;ProductProfitMarginUnitPercent&#xA;&#x9;)&#xA;&#x9;SELECT&#xA;&#x9;dbo.StageProduct.ProductID AS ProductID,&#xA;&#x9;dbo.StageProductType.ProductTypeID AS ProductTypeID,&#xA;&#x9;dbo.StageProductCategory.ProductCategoryID AS ProductCategoryID,&#xA;&#x9;dbo.StageProduct.Product AS ProductName,&#xA;&#x9;dbo.StageProductType.ProductType AS ProductType,&#xA;&#x9;dbo.StageProductCategory.ProductCategory AS ProductCategory,&#xA;&#x9;dbo.StageProduct.Price AS ProductRetailPrice,&#xA;&#x9;dbo.StageProduct.WholesalePrice AS ProductWholesalePrice,&#xA;&#x9;dbo.StageProduct.Cost AS ProductCost,&#xA;&#x9;dbo.StageProduct.Price - dbo.StageProduct.Cost AS ProductRetailProfit,&#xA;&#x9;dbo.StageProduct.WholesalePrice - dbo.StageProduct.Cost AS ProductWholesaleUnitProfit,&#xA;&#x9;(dbo.StageProduct.Price - dbo.StageProduct.Cost) / dbo.StageProduct.Price AS ProductProfitMarginUnitPercent  &#xA;&#xA;&#x9;FROM StageProduct &#xA;&#x9;INNER JOIN StageProductType&#xA;&#x9;ON dbo.StageProduct.ProductTypeID = dbo.StageProductType.ProductTypeID&#xA;&#x9;INNER JOIN StageProductCategory&#xA;&#x9;ON dbo.StageProductCategory.ProductCategoryID = dbo.StageProductType.ProductCategoryID;&#xA;&#xA;END &#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
@@ -608,7 +608,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table dimReseller"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="6">
+      DTS:ThreadHint="5">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -625,7 +625,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Load Table dimStore"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="6">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6001,7 +6001,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Channel"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="8">
+      DTS:ThreadHint="7">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6018,7 +6018,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ChannelCategory"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="9">
+      DTS:ThreadHint="8">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6035,7 +6035,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Customer"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="7">
+      DTS:ThreadHint="9">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6086,7 +6086,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Products"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="17">
+      DTS:ThreadHint="18">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6103,7 +6103,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ProductType"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="13">
+      DTS:ThreadHint="10">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6120,7 +6120,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate Reseller"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="14">
+      DTS:ThreadHint="13">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6137,7 +6137,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate ResellerStore"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="18">
+      DTS:ThreadHint="17">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6154,7 +6154,7 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Truncate SalesDetail"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="10">
+      DTS:ThreadHint="14">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
@@ -6205,12 +6205,46 @@
       DTS:LocaleID="-1"
       DTS:ObjectName="Unknown Member"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
           SQLTask:SqlStatementSource="-- =============================&#xA;-- Begin load of unknown member&#xA;-- =============================&#xA;SET IDENTITY_INSERT dbo.dimChannel ON;&#xA;&#xA;INSERT INTO dbo.dimChannel&#xA;(&#xA;dimChannelID&#xA;,dimSourceChannelID&#xA;,dimSourceCategoryID&#xA;,dimChannelCategoryName&#xA;,dimChannelName&#xA;)&#xA;VALUES&#xA;( &#xA;-1&#xA;,-1&#xA;,-1 &#xA;,'Unknown'&#xA;,'Unknown'&#xA;);&#xA;-- Turn the identity insert to OFF so new rows auto assign identities&#xA;SET IDENTITY_INSERT dbo.dimChannel OFF;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Unknown Member dimLocation"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{d713a9a5-b6e4-41cc-8fc8-7f5d96d35249}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Unknown Member dimLocation"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="3">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- =============================&#xA;-- Begin load of unknown member&#xA;-- =============================&#xA;SET IDENTITY_INSERT dbo.dimLocation ON;&#xA;&#xA;INSERT INTO dbo.dimLocation&#xA;(&#xA;dimLocationID&#xA;,dimAddress&#xA;,dimCity&#xA;,dimPostalCode&#xA;,dimStateProvince&#xA;,dimCountry&#xA;)&#xA;VALUES&#xA;(&#xA;-1&#xA;,'Unknown' &#xA;,'Unknown'&#xA;,0&#xA;,'Unknown'&#xA;,'Unknown' &#xA;);&#xA;SET IDENTITY_INSERT dbo.dimLocation OFF;&#xA;GO" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Unknown Member dimProduct"
+      DTS:CreationName="Microsoft.ExecuteSQLTask"
+      DTS:Description="Execute SQL Task"
+      DTS:DTSID="{7fb9301c-ec46-4ffa-ae5d-bc595905c9b9}"
+      DTS:ExecutableType="Microsoft.ExecuteSQLTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Unknown Member dimProduct"
+      DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+      DTS:ThreadHint="4">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <SQLTask:SqlTaskData
+          SQLTask:Connection="{BFEF84F6-5367-4381-A04B-1A681CA82510}"
+          SQLTask:SqlStatementSource="-- ====================================&#xA;-- load dimProduct Unkown table&#xA;-- ====================================&#xA;&#xA;SET IDENTITY_INSERT dbo.dimProduct ON;&#xA;&#xA;INSERT INTO DestinationSystem.dbo.dimProduct&#xA;(&#xA;dimProductKey,&#xA;ProductID,&#xA;ProductTypeID,&#xA;ProductCategoryID,&#xA;ProductName,&#xA;ProductType,&#xA;ProductCategory,&#xA;ProductRetailPrice,&#xA;ProductWholesalePrice,&#xA;ProductCost,&#xA;ProductRetailProfit,&#xA;ProductWholesaleUnitProfit,&#xA;ProductProfitMarginUnitPercent&#xA;)&#xA;VALUES&#xA;(&#xA;-1,&#xA;-1,&#xA;-1,&#xA;-1,&#xA;'Unknown',&#xA;'Unknown',&#xA;'Unknown',&#xA;-1,&#xA;-1,&#xA;-1,&#xA;-1,&#xA;-1,&#xA;-1&#xA;);&#xA;&#xA;-- Turn off identity insert so new rows auto assign identities&#xA;&#xA;SET IDENTITY_INSERT dbo.dimProduct OFF;&#xA;GO&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -6359,6 +6393,22 @@
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 16 1 1"
       DTS:To="Package\Load Table dimCustomer" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 17]"
+      DTS:CreationName=""
+      DTS:DTSID="{8991B742-0BC2-4145-BB1F-2E3DD024560F}"
+      DTS:From="Package\Load Table dimLocation"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 17"
+      DTS:To="Package\Unknown Member dimLocation" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 18]"
+      DTS:CreationName=""
+      DTS:DTSID="{77439B2A-5A23-43DC-9517-B1E0026425D4}"
+      DTS:From="Package\Load Table dimProduct"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 18"
+      DTS:To="Package\Unknown Member dimProduct" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
       DTS:CreationName=""
@@ -7240,6 +7290,58 @@
                   Capacity="5">
                   <mssgle:LineSegment
                     End="0,20.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="230,42"
+          Id="Package\Unknown Member dimLocation"
+          TopLeft="800,743" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 17]"
+          TopLeft="912.722222222223,715.999999999999">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,27.000000000001"
+              Start="0,0"
+              End="0,19.500000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19.500000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="227,42"
+          Id="Package\Unknown Member dimProduct"
+          TopLeft="516,745" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 18]"
+          TopLeft="629.444444444445,707.444444444443">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,37.555555555557"
+              Start="0,0"
+              End="0,30.055555555557">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,30.055555555557" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
