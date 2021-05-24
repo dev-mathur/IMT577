@@ -1,0 +1,80 @@
+IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')
+BEGIN
+	DELETE FROM dbo.dimChannel;
+END
+GO
+
+
+
+
+
+
+IF NOT EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')
+BEGIN
+	CREATE TABLE dbo.dimChannel
+	(
+	dimChannelID INT IDENTITY(1,1) CONSTRAINT PK_dimChannel PRIMARY KEY CLUSTERED NOT NULL, -- SurrogateKey
+	dimSourceChannelID INT NOT NUll, --Natural Key
+	dimSourceCategoryID INT NOT NUll, --Natural Key
+	dimChannelCategoryName VARCHAR(50) NOT NULL,
+	dimChannelName VARCHAR(50) NOT NULL
+	);
+END
+GO
+
+
+
+
+
+IF EXISTS (SELECT TABLE_NAME FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_SCHEMA = 'dbo' AND TABLE_NAME = 'dimChannel')
+BEGIN
+	-- ====================================
+	-- Load dimChannel table
+	-- ====================================
+
+	INSERT INTO dbo.dimChannel
+	(
+	dimSourceChannelID
+	,dimSourceCategoryID
+	,dimChannelCategoryName
+	,dimChannelName
+	)
+	SELECT 
+	dbo.StageChannel.ChannelID AS dimSourceChannelID
+	,dbo.StageChannel.ChannelCategoryID AS dimSourceChannelCategory
+	,dbo.StageChannelCategory.ChannelCategory AS dimCategoryName
+	,dbo.StageChannel.Channel AS dimChannelName
+
+	FROM StageChannel
+	INNER JOIN StageChannelCategory
+	ON StageChannel.ChannelCategoryID = StageChannelCategory.ChannelCategoryID;
+END
+GO 
+
+
+
+
+-- =============================
+-- Begin load of unknown member
+-- =============================
+SET IDENTITY_INSERT dbo.dimChannel ON;
+
+INSERT INTO dbo.dimChannel
+(
+dimChannelID
+,dimSourceChannelID
+,dimSourceCategoryID
+,dimChannelCategoryName
+,dimChannelName
+)
+VALUES
+( 
+-1
+,-1
+,-1 
+,'Unknown'
+,'Unknown'
+);
+-- Turn the identity insert to OFF so new rows auto assign identities
+SET IDENTITY_INSERT dbo.dimChannel OFF;
+GO

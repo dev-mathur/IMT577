@@ -1,0 +1,185 @@
+CREATE TABLE [dbo].[StageChannel] (
+    [ChannelID] int,
+    [ChannelCategoryID] int,
+    [Channel] nvarchar(50),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+CREATE TABLE [dbo].[StageChannelCategory] (
+    [ChannelCategoryID] int,
+    [ChannelCategory] nvarchar(50),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+CREATE TABLE [dbo].[StageCustomer] (
+    [CustomerID] uniqueidentifier,
+    [SubSegmentID] int,
+    [FirstName] nvarchar(255),
+    [LastName] nvarchar(255),
+    [Gender] nvarchar(1),
+    [EmailAddress] nvarchar(255),
+    [Address] nvarchar(255),
+    [City] nvarchar(255),
+    [StateProvince] nvarchar(255),
+    [Country] nvarchar(255),
+    [PostalCode] nvarchar(255),
+    [PhoneNumber] nvarchar(20),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+
+CREATE TABLE [dbo].[StageProduct] (
+    [ProductID] int,
+    [ProductTypeID] int,
+    [Product] nvarchar(50),
+    [Color] nvarchar(50),
+    [Style] nvarchar(50),
+    [UnitofMeasureID] int,
+    [Weight] numeric(18,4),
+    [Price] numeric(18,2),
+    [Cost] numeric(18,2),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255),
+    [WholesalePrice] numeric(18,2)
+)
+
+
+
+CREATE TABLE [dbo].[StageProductCategory] (
+    [ProductCategoryID] int,
+    [ProductCategory] nvarchar(50),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+CREATE TABLE [StageProductType] (
+    [ProductTypeID] int,
+    [ProductCategoryID] int,
+    [ProductType] nvarchar(50),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+
+CREATE TABLE [dbo].[StageReseller] (
+    [ResellerID] uniqueidentifier,
+    [Contact] nvarchar(255),
+    [EmailAddress] nvarchar(255),
+    [Address] nvarchar(255),
+    [City] nvarchar(255),
+    [StateProvince] nvarchar(255),
+    [Country] nvarchar(255),
+    [PostalCode] nvarchar(255),
+    [PhoneNumber] nvarchar(20),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255),
+    [ResellerName] nvarchar(255)
+)
+
+
+
+
+
+
+CREATE TABLE [dbo].[StageSalesDetail] (
+    [SalesDetailID] int,
+    [SalesHeaderID] int,
+    [ProductID] int,
+    [SalesQuantity] int,
+    [SalesAmount] numeric(18,2),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+
+
+CREATE TABLE [dbo].[StageSalesHeader] (
+    [SalesHeaderID] int,
+    [Date] date,
+    [ChannelID] int,
+    [StoreID] int,
+    [CustomerID] uniqueidentifier,
+    [ResellerID] uniqueidentifier,
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+
+
+CREATE TABLE [dbo].[StageStore] (
+    [StoreID] int,
+    [SubSegmentID] int,
+    [StoreNumber] int,
+    [StoreManager] nvarchar(255),
+    [Address] nvarchar(255),
+    [City] nvarchar(255),
+    [StateProvince] nvarchar(255),
+    [Country] nvarchar(255),
+    [PostalCode] nvarchar(255),
+    [PhoneNumber] nvarchar(20),
+    [CreatedDate] datetime,
+    [CreatedBy] nvarchar(255),
+    [ModifiedDate] datetime,
+    [ModifiedBy] nvarchar(255)
+)
+
+
+
+
+CREATE TABLE [dbo].[StageTargetCRS] (
+    [Year] float,
+    [ChannelName] nvarchar(255),
+    [TargetName] nvarchar(255),
+    [ TargetSalesAmount ] float
+)
+
+
+
+CREATE TABLE [dbo].[StageTargetProduct] (
+    [ProductID] float,
+    [Product] nvarchar(255),
+    [Year] float,
+    [ SalesQuantityTarget ] float
+)
